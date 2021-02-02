@@ -1,14 +1,16 @@
-{
-   "datetime": 1608966307,
-   "error": false,
-   "filehash": "360ab486941bee9be2ee070bbce17bf6",
-   "filename": "",
-   "forum_url": "",
-   "id": "ef90c776a49bfc005381fe9955ef285db650009dc308c2a97a7287602b4c10df",
-   "maintainer": "MADMAX and introdructor",
-   "maintainer_url": "https://github.com/madmax7896",
-   "size": 1628017453,
-   "telegram_username": "Prophecy_Child and Introdructor",
-   "url": "",
-   "version": "Eleven",
-}
+[
+    {
+        "datetime": 1608966307,
+        "error": false,
+        "filehash": "360ab486941bee9be2ee070bbce17bf6",
+        "filename": "",
+        "forum_url": "",
+        "id": "ef90c776a49bfc005381fe9955ef285db650009dc308c2a97a7287602b4c10df",
+        "maintainer": "MADMAX and introdructor",
+        "maintainer_url": "https://github.com/madmax7896",
+        "size": 1628017453,
+        "telegram_username": "Prophecy_Child and Introdructor",
+        "url": "https://github.com/HyconOS-Releases/Redmi-Note8-8T/releases",
+        "version": "Aureus"
+    }
+]

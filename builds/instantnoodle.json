@@ -1,14 +1,16 @@
-{
-   "datetime": 1612264117,
-   "error": false,
-   "filehash": "dcb9775e7095845ded432e1c88ed7a04",
-   "filename": "HyconOS_1.0_instantnoodle-11.0-20210202-1110-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v1-0-aureus.4227549/",
-   "id": "62abed8a66912d3d22977ffa8d979d22f92ae6c8be28abe502966e5a2b9ad3c3",
-   "maintainer": "CryogenChill",
-   "maintainer_url": "https://github.com/CryogenChill",
-   "size": 1494427037,
-   "telegram_username": "ChilledCryo",
-   "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/v1.0/HyconOS_1.0_instantnoodle-11.0-20210202-1110-OFFICIAL.zip",
-   "version": "Eleven",
-}
+[
+    {
+       "datetime": 1612264117,
+       "error": false,
+       "filehash": "dcb9775e7095845ded432e1c88ed7a04",
+       "filename": "HyconOS_1.0_instantnoodle-11.0-20210202-1110-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v1-0-aureus.4227549/",
+       "id": "62abed8a66912d3d22977ffa8d979d22f92ae6c8be28abe502966e5a2b9ad3c3",
+       "maintainer": "CryogenChill",
+       "maintainer_url": "https://github.com/CryogenChill",
+       "size": 1494427037,
+       "telegram_username": "ChilledCryo",
+       "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/v1.0/HyconOS_1.0_instantnoodle-11.0-20210202-1110-OFFICIAL.zip",
+       "version": "Aureus"
+    }
+]
