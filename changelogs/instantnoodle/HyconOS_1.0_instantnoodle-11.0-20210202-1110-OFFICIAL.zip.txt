@@ -1,0 +1,49 @@
+Device changes:
+*Initial build
+----------------------------------
+Source changes:
+*Added support for per app network isolation.
+*Added Face Unlock support.
+*Added option to Allow user to add/remove QS tile with one click.
+*legacy apps can scale fully to the display's aspect ratio
+*Added option to reset Battery stats.
+*Added caffeine qs tile.
+*Added DataSwitchTile.
+*Added Sync QS Tile.
+*Enabled fingerprint swipe gesDismiss notifications with back FP left/right swipe.
+*Added three-fingers-swipe to screenshotscreenshot.
+*Added lockcreen charging info.
+*added Double tap to sleep on statusbar
+*Added Smart Charging.
+*Added capability to allow tethering to use VPN upstreams.
+*Added Network traffic indicator.
+*Added Volume Rocker Wake.
+*Added volume key music control.
+*Added option to use 4G icon instead LTE.
+*Added Option to Display Data Disabled Indicator Icon.
+*Revamped settings dashboard, Thanks To WaveOS For it.
+*Added New Battery Meterview Thanks to FluidOS of it.
+*Added option for choosing a custom vibration pattern.
+*Added Advanced Reboot option.
+*Moved blur toggle under Display options.
+*Added battery health.
+*Added VoLTE and VoWiFi icons.
+*Add vibration patterns from OOS.
+*Added Support for In-Call Vibration options.
+*Toggle to Unlink Call and Notification volumes.
+*Added Option to scramble PIN.
+*Added option forSignature spoofing.
+*Moved brightness slider at bottom and visible in qs.
+*Switched to OOS 11 QS layout.
+*Added Toggle for QS media player.
+*Added Option to Hide Lock and Statusbar on Lockscreen.
+*Added option for QS header data usage.
+*Added Lockscreen media art.
+*Added optionhide Notification headers.
+*Added New Systemui Themes under Color Bucket.
+*Added optional support to toggle new QS tint.
+*Added OOS style switches.
+*Added custom RGB accenter.
+*Added Custom Clock faces.
+*Added AOD and ambient display tiles.
+*Added Material Toast notifications.
