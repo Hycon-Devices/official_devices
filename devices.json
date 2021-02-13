@@ -26,5 +26,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v1-0-aureus.4227549/"
          }
       ]
+   },
+   {
+      "brand": "OnePlus",
+      "codename": "cheeseburger",
+      "name": "OnePlus 5",
+      "supported_versions": [
+         {
+            "maintainer_name": "CryogenChill",
+            "maintainer_url": "https://github.com/CryogenChill",
+            "version_code": "eleven",
+            "version_name": "Aureus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v1-0-aureus.4227785/"
+         }
+      ]
    }
 ]
