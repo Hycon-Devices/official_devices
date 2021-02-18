@@ -1,16 +1,16 @@
 [
     {  
-       "datetime": 1613560102,
+       "datetime": 1613601256,
        "error": false,
-       "filehash": "8340fca1b34238135761e36a5e0f56fe",
-       "filename": "HyconOS_1.5_instantnoodle-11.0-20210217-1108-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v1-0-aureus.4227785/",
-       "id": "48e0169608b0bd9605fcaed7d859b6dbc2820821f300eb4a8f1794c3fe375a6e",
+       "filehash": "a4da142f802368d37608a85e9d665acf",
+       "filename": "HyconOS_1.5_cheeseburger-11.0-20210217-2236-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v1-5-zephyrus.4227785/",
+       "id": "3ee774645d0b821e2527215db1dee392ac623cae860467cf8cefe587b8ffc9ba",
        "maintainer": "CryogenChill",
        "maintainer_url": "https://github.com/CryogenChill",
-       "size": 1500675306,
+       "size": 1484586943,
        "telegram_username": "ChilledCryo",
-       "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/test/HyconOS_1.5_instantnoodle-11.0-20210217-1108-OFFICIAL.zip",
+       "url": "https://github.com/HyconOS-Releases/OnePlus5-cheeseburger/releases/download/v1.5/HyconOS_1.5_cheeseburger-11.0-20210217-2236-OFFICIAL.zip",
        "version": "Zephyrus"
     }
 ]
