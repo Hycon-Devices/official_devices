@@ -54,5 +54,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v1-5-zephyrus.4227785/"
          }
       ]
+   },
+      {
+      "brand": "Realme",
+      "codename": "RMX1851",
+      "name": "Realme 3 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "TheTablaster",
+            "maintainer_url": "https://github.com/Blaster4385",
+            "version_code": "eleven",
+            "version_name": "Zephyrus",
+            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v1-5-zephyrus-official-realme-3-pro-rmx1851.4239547/"
+         }
+      ]
    }
 ]
