@@ -1,17 +1,17 @@
 [
     {  
-       "datetime": 1614750633,
+       "datetime": 1616934991,
        "error": false,
-       "filehash": "16efd7c342bd8045bd9282d271357278",
-       "filename": "HyconOS_1.5_RMX1851-11.0-20210303-0550-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/hycon-os-v1-5-zephyrus-official-realme-3-pro-rmx1851.4239547/",
-       "id": "f392421c6541ceea761c4d9dee831b3f19036de24a2e932db2917d883c47bf12",
+       "filehash": "e67fd97022ef1dc656c6589701983288",
+       "filename": "HyconOS_2.0_RMX1851-11.0-20210328-1237-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/hycon-os-v2-0-bllizard-official-realme-3-pro-rmx1851.4239547/",
+       "id": "f848d0a757d8adcceeb827c5f04cf616e8e5168bbde87f9f4e3a361eeebdb218",
        "maintainer": "TheTablaster",
        "maintainer_url": "https://github.com/Blaster4385",
-       "size": 1256392242,
+       "size": 1286518040,
        "telegram_username": "V3NK4135H",
-       "url": "https://github.com/HyconOS-Releases/Realme3pro/releases/download/V1.5/HyconOS_1.5_RMX1851-11.0-20210303-0550-OFFICIAL.zip",
-       "version": "Zephyrus"
+       "url": "https://github.com/HyconOS-Releases/RMX1851/releases/download/v2.0/HyconOS_2.0_RMX1851-11.0-20210328-1237-OFFICIAL.zip",
+       "version": "Blizzard"
     }
 ]
    
