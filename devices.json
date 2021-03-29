@@ -68,5 +68,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v2-0-bllizard-official-realme-3-pro-rmx1851.4239547/"
          }
       ]
+   },
+      {
+      "brand": "Redmi",
+      "codename": "begonia",
+      "name": "Redmi note 8 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "abhixv",
+            "maintainer_url": "https://github.com/abhixv",
+            "version_code": "eleven",
+            "version_name": "Blizzard",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-begonia-11-hycon-os-v2-0-blizzard.4253903/"
+         }
+      ]
    }
 ]
