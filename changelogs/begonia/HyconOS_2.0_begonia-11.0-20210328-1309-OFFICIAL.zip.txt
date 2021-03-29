@@ -1,0 +1,42 @@
+Device changes:
+# v2.0 Blizzard
+ - Intial Official Build
+-----------------------------
+## v2.0 | Blizzard (28-03-2021)
+Changelog :-
+ - Merged March security patch.
+ - Implement Gvisual mod.
+ - Add Fluid lockscreen clock.
+ - Add Tux lockscreen clock
+ - Add 404 IDE lockscreen clock.
+ - Added systemwide Applock With face unlock support.
+ - Added new face lock implementation.
+ - Added Oneplus file manager.
+ - Added option to hide gesture navbar.
+ - allow customizing gesture navbar.
+ - Added alert slider support.
+ - Alert slider notifications for supported devices.
+ - Added more apps to pixelprop utils .
+ - Removed divider between QS tiles and media player.
+ - add/remove QS tiles with one click.
+ - Added Dual Channel into Bluetooth Audio. Channel Mode developer options.
+ - Set all devices model to Pixel 3 XL for Google.
+ - Added Russian Language translation into HyconHub.
+ - Updated HyconHub logo in settings dashboard.
+ - Added support for battery Moto Mods.
+ - Updated OOS Volte & Vowifi icons.
+ - implemented OnePlus proprietary vibrator format.
+ - Improved Fod stuff.
+ - Disabled blur wakeup animation.
+ - Implemented phone ringtone setting for Multi SIM device.
+ - Disabled rotation on lockscreen.
+ - Added Vooc , Warp & Dash Charging Support.
+ - Allowed to limit the max framerate of built-in screen recorder.
+ - Implemented Hycon Os Updater. You guys can enjoy OTA support now .
+----------------------------------------------------------------
+ - Fixed bugs & killed demons :
+ - Fixed Lockscreen Carrier Text Padding
+ - Fixed "Clear All" recent app screen loop bug
+ - Fixed Lockscreen Carrier Text Padding
+ - Fixed inactive state Wifi Icon in Kai Icon Pack.
+ - Fixed background colouring for settings themed icons.

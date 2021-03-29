@@ -1,0 +1,16 @@
+[
+    {  
+       "datetime": 1616936804,
+       "error": false,
+       "filehash": "51b77cbeebc685fca9d71d679425c710",
+       "filename": "HyconOS_2.0_begonia-11.0-20210328-1309-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-11-hycon-os-v2-0-blizzard.4253903/",
+       "id": "67aef0ac773ed1987622d52912ae192f019e70bb0fde4fa8564440ffcc568dcc",
+       "maintainer": "abhixv",
+       "maintainer_url": "https://github.com/abhixv",
+       "size": 1554525015,
+       "telegram_username": "https://t.me/abhixv",
+       "url": "https://github.com/HyconOS-Releases/begonia/releases/download/V2.0/HyconOS_2.0_begonia-11.0-20210328-1309-OFFICIAL.zip",
+       "version": "Blizzard"
+    }
+]
