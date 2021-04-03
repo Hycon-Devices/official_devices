@@ -1,17 +1,17 @@
 [
     {  
-       "datetime": 1613601256,
+        "datetime": 1617310356,
        "error": false,
-       "filehash": "a4da142f802368d37608a85e9d665acf",
-       "filename": "HyconOS_1.5_cheeseburger-11.0-20210217-2236-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v1-5-zephyrus.4227785/",
-       "id": "3ee774645d0b821e2527215db1dee392ac623cae860467cf8cefe587b8ffc9ba",
+       "filehash": "730f9c59772fb18f7777dbc396c86fc5",
+       "filename": "HyconOS_2.0_cheeseburger-11.0-20210401-2054-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v2-0-blizzard.4227785/",
+       "id": "3560c3c854b2d6fa90417df5bbb5f514088705a0f3054923eb076cd29175e3e2",
        "maintainer": "CryogenChill",
        "maintainer_url": "https://github.com/CryogenChill",
-       "size": 1484586943,
+       "size": 1326002179,
        "telegram_username": "ChilledCryo",
-       "url": "https://github.com/HyconOS-Releases/OnePlus5-cheeseburger/releases/download/v1.5/HyconOS_1.5_cheeseburger-11.0-20210217-2236-OFFICIAL.zip",
-       "version": "Zephyrus"
+       "url": "https://github.com/HyconOS-Releases/OnePlus5-cheeseburger/releases/download/v2.0/HyconOS_2.0_cheeseburger-11.0-20210401-2054-OFFICIAL.zip",
+       "version": "Blizzard"
     }
 ]
    
