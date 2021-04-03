@@ -1,16 +1,16 @@
 [
     {
-       "datetime": 1613560102,
+        "datetime": 1617227172,
        "error": false,
-       "filehash": "8340fca1b34238135761e36a5e0f56fe",
-       "filename": "HyconOS_1.5_instantnoodle-11.0-20210217-1108-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v1-5-zephyrus.4227549/",
-       "id": "48e0169608b0bd9605fcaed7d859b6dbc2820821f300eb4a8f1794c3fe375a6e",
+       "filehash": "b1ba3792e98f39754beec6e146c9706e",
+       "filename": "HyconOS_2.0_instantnoodle-11.0-20210331-2146-OFFICIAL.zip",
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v2-0-blizzard.4227549/",
+       "id": "c0e88a3b86aa3d16f6f80c84c8fa9f59b58c71724fa07210159f42777f9d1529",
        "maintainer": "CryogenChill",
        "maintainer_url": "https://github.com/CryogenChill",
-       "size": 1500675306,
+       "size": 1624857598,
        "telegram_username": "ChilledCryo",
-       "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/v1.5/HyconOS_1.5_instantnoodle-11.0-20210217-1108-OFFICIAL.zip",
-       "version": "Zephyrus"
+       "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/v2.0/HyconOS_2.0_instantnoodle-11.0-20210331-2146-OFFICIAL.zip",
+       "version": "Blizzard"
     }
 ]
