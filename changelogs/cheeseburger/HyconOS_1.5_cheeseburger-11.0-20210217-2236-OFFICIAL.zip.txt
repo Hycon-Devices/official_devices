@@ -1,0 +1,36 @@
+Source changes:
+
+# Additions & Implementations
+- Revamped settings dashboard icons for all categories.
+- Added lottie animations.
+- Moved theming stuff to Hub.
+- Added Fastcharge preference to Battery settings.
+- Settings: QR Scanner pass proper frame Width and Height .
+- Unlock mobile network settings when airplane mode is on.
+- Tint data usage bar with activated control color.
+- Remove roaming warning, app uninstall, disable confirmation dialogs.
+- Added drawable for private DNS.
+- Avoided enforcing weird backgrounds in Settings.
+- Better spaced searchbar in dashboard.
+- Added avatar icon in SearchBar.
+- Redesigned searchbar header.
+- Added Initial bootleg gradient color.
+- Added FPS and CPU info overlay and tile.
+- Added long screenshot support.
+- Add delete action chip for screenshot.
+- Introduce QS tile style picker .
+- Limit resolution to 4k for 32 bit processes.
+- Implement POSP Volume Plugin Manager.
+- Added Disco Dingo tiles mode .
+- Added QS header With custom header image offset.
+- Added option to Allow limiting maxc framerate of built in screen recorder.
+
+# Killed Bugs and Fixed demons
+- Fixed Screen drag for swipe to screenshot
+- Updated divider color in dark theme.
+- Fixed inconsistent USB preference screen title.
+- Fixed stray divider in connected devices screen.
+- Fixed default brightness 0 display level .
+- Fixed FC in settings brightness.
+- Fixed invalid private DNS help text if URI is missing.
+- Fixed Hycon Hub Logo in Settings Dashboard.
