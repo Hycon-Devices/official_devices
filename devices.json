@@ -28,6 +28,20 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "name": "Xiaomi Mi 6X",
+      "supported_versions": [
+         {
+            "maintainer_name": "chdelacr",
+            "maintainer_url": "https://github.com/chdelacr",
+            "version_code": "eleven",
+            "version_name": "Hashira",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-hycon-os-xiaomi-mi-6x-wayne-11.4233003/"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "instantnoodle",
       "name": "OnePlus 8",
