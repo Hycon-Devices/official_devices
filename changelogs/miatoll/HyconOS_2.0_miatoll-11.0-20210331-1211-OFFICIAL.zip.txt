@@ -1,0 +1,56 @@
+Device changes:
+- Etharius Kernel upstreamed to 4.14.227 and more
+- MIUI Camera fully fixed now
+- Fixed WiFi Display
+- Fixed Power-off-alarm
+- Removed color modes support
+- Set lmkd.reinit property from vendor init
+- Adjust dex2oat thread count after setup wizard
+- Improved post_boot tuning for performance
+- Bump top-app stune boost to 10
+- Configured dynamic schedtune boost
+- Kang EAS configuration from sunfish
+- Bump up CPU Cluster 1 min freq to 768 MHz and CPU Cluster 2 min freq to 825 MHz
+- Launch bootanimation early
+
+----------------------------------
+
+Hycon Os V2.0 | Blizzard Changelog -: 
+
+• Add-ons And Updates :
+- Merged March security patch.
+- Implement Gvisual mod.
+- Add Fluid lockscreen clock.
+- Add Tux lockscreen clock
+- Add 404 IDE lockscreen clock.
+- Added systemwide Applock With face unlock support.
+- Added new face lock implementation.
+- Added Oneplus file manager.
+- Added option to hide gesture navbar.
+- allow customizing gesture navbar.
+- Added alert slider support.
+- Alert slider notifications for supported devices.
+- Added more apps to pixelprop utils .
+- Removed divider between QS tiles and media player.
+- add/remove QS tiles with one click.
+- Added Dual Channel into Bluetooth Audio. Channel Mode developer options.
+- Set all devices model to Pixel 3 XL for Google.
+- Added Russian Language translation into HyconHub.
+- Updated HyconHub logo in settings dashboard.
+- Added support for battery Moto Mods.
+- Updated OOS Volte & Vowifi icons.
+- implemented OnePlus proprietary vibrator format.
+- Improved Fod stuff.
+- Disabled blur wakeup animation.
+- Implemented phone ringtone setting for Multi SIM device.
+- Disabled rotation on lockscreen.
+- Added Vooc , Warp & Dash Charging Support.
+- Allowed to limit the max framerate of built-in screen recorder.
+- Implemented Hycon Os Updater. You guys can enjoy OTA support now .
+
+•Fixed bugs & killed demons :
+- Fixed Lockscreen Carrier Text Padding
+- Fixed "Clear All" recent app screen loop bug
+- Fixed Lockscreen Carrier Text Padding
+- Fixed inactive state Wifi Icon in Kai Icon Pack.
+- Fixed background colouring for settings themed icons.
