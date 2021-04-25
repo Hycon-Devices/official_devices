@@ -1,0 +1,31 @@
+Device changes:
+
+- Initial Build
+
+----------------------------------
+
+Hycon OS | V2.5 | HASHIRA Changelog:
+
+-Added option to set QS panel columns and rows.
+-Introduced automated DC Dimming.
+-Added FOD icon picker in HyconHUB.
+-Added HyconOS fod icon in FOD picker.
+-Allowed additional padding on left side of heads up notifications. 
+-Added Shapeshift lockscreen clock.
+-Added Lock icons improvements for face unlock.
+-Disabled camera shutter sound in all countries.
+-Added Bluetooth and wifi timeout feature.
+-Disabled full screen keyboard.
+-Improved HyconHub Layout.
+-Added Demon Slayer ringtone and notification sound.
+-Changed Hycon logo in About phone and -Added Rengoku Kyojuro's logo.
+Changed default wallpaper.
+-Added Hycon Wallpapers app .
+-Added option for statusbar brightness  control.
+-imported new gboard overlay.
+-Fixed Volume panel not following rounded corners partially.
+-fixed AOD flickers on some devices.
+-Fixed bug on high contrast text
+-Fixed black screen after doze.
+-Volume panel plugins can be on left side now :)
+-more under the hood improvements to make rom smooth.

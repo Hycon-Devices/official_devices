@@ -69,6 +69,20 @@
          }
       ]
    },
+  {
+      "brand": "Realme",
+      "codename": "RMX1901",
+      "name": "Realme X",
+      "supported_versions": [
+         {
+            "maintainer_name": "HaSSaN",
+            "maintainer_url": "https://github.com/HaSSaN-L",
+            "version_code": "eleven",
+            "version_name": "Hashira",
+            "xda_thread": ""
+         }
+      ]
+   },
       {
       "brand": "Realme",
       "codename": "RMX1851",
