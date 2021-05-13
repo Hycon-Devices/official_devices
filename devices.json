@@ -110,5 +110,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-begonia-11-hycon-os-v2-0-blizzard.4253903/"
          }
       ]
+   },
+      {
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "name": "POCO F1",
+      "supported_versions": [
+         {
+            "maintainer_name": "XtremeOrnob",
+            "maintainer_url": "https://github.com/XtremeOrnob",
+            "version_code": "eleven",
+            "version_name": "Blizzard",
+            "xda_thread": "WIP"
+         }
+      ]
    }
 ]
