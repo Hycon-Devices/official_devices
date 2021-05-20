@@ -1,0 +1,16 @@
+[
+    {
+        "datetime": 1621421705,
+        "error": false,
+        "filehash": "360ab486941bee9be2ee070bbce17bf6",
+        "filename": "HyconOS_3.0_ysl-11.0-20210519-1822-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-ysl-11-hycon-os-v3-0-aurora.4279455/",
+        "id": "ef90c776a49bfc005381fe9955ef285db650009dc308c2a97a7287602b4c10df",
+        "maintainer": "DustXyZ",
+        "maintainer_url": "https://github.com/dustxyz",
+        "size": 1628017453,
+        "telegram_username": "NotReallyDust",
+        "url": "https://github.com/HyconOS-Releases/YSL/releases/download/V3.0/HyconOS_3.0_ysl-11.0-20210519-1822-OFFICIAL.zip",
+        "version": "aurora"
+    }
+]

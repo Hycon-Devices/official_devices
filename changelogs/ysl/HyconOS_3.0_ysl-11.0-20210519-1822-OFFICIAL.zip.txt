@@ -1,0 +1,6 @@
+--- Initial OFFICIAL build ---	
+- Increased ZRAM size to 1GB
+- Added Rounded Corners
+- Re-enable iorapd
+- Address applock denials
+- And small improvements.
