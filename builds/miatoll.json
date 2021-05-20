@@ -1,16 +1,16 @@
 [
   {
-    "datetime": 1619309345,
+    "datetime": 1621493121,
     "error": false,
-    "filehash": "ae95fae5b37788173fa6c495e5d92816",
-    "filename": "HyconOS_2.5_miatoll-11.0-20210425-0009-OFFICIAL.zip",
-    "id": "959c5d66be012df59a0336ca91642fe22d17a711bd45f84d025bc5afb25602c4",
-    "size": 1989178092,
+    "filehash": "549f59aeda18a8a04f00a372b1e1b62a",
+    "filename": "HyconOS_3.0_miatoll-11.0-20210520-0647-OFFICIAL.zip",
+    "id": "2a4554235f155f1caab66d38809d7b16c7cc63d51e6d17d7c6828532f15995aa",
+    "size": 2008237137,
     "forum_url": "",
     "maintainer": "HaSSaN",
     "maintainer_url": "https://github.com/HaSSaN-L",
     "telegram_username": "HaSSaN_MoHl",
     "url": "https://github.com/HyconOS-Releases/miatoll/releases/download/v2.5/HyconOS_2.5_miatoll-11.0-20210425-0009-OFFICIAL.zip",
-    "version": "Hashira"
+    "version": "Aurora"
   }
 ]
