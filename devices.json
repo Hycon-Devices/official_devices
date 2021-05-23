@@ -124,5 +124,20 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-ysl-11-hycon-os-v3-0-aurora.4279455/"
          }
       ]
+   },
+      {
+      "brand": "Poco",
+      "codename": "Phoenix",
+      "name": "Poco X2 / Redmi K30",
+      "supported_versions": [
+         {
+            "maintainer_name": "Nasir Ali",
+            "maintainer_url": "https://github.com/Nasir-buddy",
+            "version_code": "eleven",
+            "version_name": "Aurora",
+            "xda_thread": "/"
+         }
+      ]
    }
 ]
+
