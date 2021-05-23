@@ -1,0 +1,72 @@
+Device ChangeLog: 
+
+- Initial Official Build
+- Switched to XDKernel
+- Upstream to latest linux tag v4.9.269
+- Update WireGuard version to 1.0.20210424
+- Updated touchscreen configs
+- Introduce UClamp and UClamp Assist
+- Introduce CPUSet Assist
+- Affine hwcomposer to big CPUs
+- Update touchscreen drivers from CAF (tsoft) 4.19
+- Underclock GPU to 170mhz
+- Enable kernelspace battery saver
+- F2FS Gapid GC Support
+- Configure cpusets
+- Add bonito brightness curve
+- Enable zram writeback job scheduler
+- Build all targets for iorapd
+- Mark HDR profile as SDR
+- Updated fingerprint to redfin May
+- Update audio configuration from stock
+- Tuned haptic feedback
+- Configure up and down rate limits to match crosshatch
+- Fixed Vilte
+- Updated Telephony blobs from LA.QSSI.11.0.r1-09900-qssi.0
+- Enable compositor background blurring
+
+----------------------------------
+
+Hycon OS | V3.0 | Aurora Changelog:
+
+- May Security bulletin resolution have been merged.
+- allowed to set back swipe deadzone in gestures.
+- Added screeenshot quality setting.
+- Updated Hycon OS Logo in About Phone section.
+- Added sound tile into Quick Settings.
+- Added Google Sound Search Tile In Quick Settings.
+- Added Mono/stereo audio tile (headphone in one ear).
+- Added Heart icon shape of QS tiles.
+- Allowed scheduling always on display.
+- Added support for mixed time and sun time modes.
+- Added Account for disabled  doze.
+- Added Show and edit Ambient Icons on Lockscreen.
+- Added option to enable AOD on charging only.
+- Added Lockscreen & ambient Pulse.
+- Added Navbar Pulse.
+- Added Ambient Notification bars.
+- Added Edge Lighting feature.
+- Added duration and count for ambient notification pulse.
+- Added colored Statusbar Notification Icons Feature.
+- Made colored Statusbar Notification Icons optional.
+- Added colored Notification  Headers Feature.
+- Made colored Notification  Headers Feature optional.
+- Added Option to Change duration and repeat counts of ambient edge.
+- Added Support for Double tap to trigger doze.
+- Enabled payphone call blocking option.
+- Package installer will show current and new version on app installation.
+- Toasts will Show app icon on system text as well.
+- Added Octavi's lockscreen clock.
+- Allowed media art with enabled facelock lockscreen to bypass.
+- Allowed selected camera apps to skip unconfigure.
+- Defined blur radius in. device-independent pixels.
+- Bump background blur radius to 155px.
+- Removed background tint from emergency tile.
+- Imported TensorFlow Lite model.
+- Fixed Notch Hide Overlays.
+- Redesigned Media Player View.
+- Added option to disable refresh rate lowering in battery saver.
+- updated positioning of analog clock on lockscreen.
+- Removed side padding from the dialog Of packageInstaller.
+- Improved notification/headsup group header layouts.
+- Added New Wallpapers To HyconWalls.

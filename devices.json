@@ -124,7 +124,7 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-ysl-11-hycon-os-v3-0-aurora.4279455/"
          }
       ]
-   }
+   },
       {
       "brand": "Poco",
       "codename": "Phoenix",
@@ -135,6 +135,20 @@
             "maintainer_url": "https://github.com/Nasir-Buddy",
             "version_code": "eleven",
             "version_name": "Aurora",
+         }
+      ]
+   },
+      {
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "name": "POCO F1",
+      "supported_versions": [
+         {
+            "maintainer_name": "XtremeOrnob",
+            "maintainer_url": "https://github.com/XtremeOrnob",
+            "version_code": "eleven",
+            "version_name": "Aurora",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253"
          }
       ]
    }
