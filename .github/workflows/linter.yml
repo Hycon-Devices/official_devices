@@ -1,0 +1,24 @@
+name: Lint Code Base
+
+on:
+  push:
+    branches: 'master'
+  pull_request:
+    branches: 'master'
+
+jobs:
+  lint:
+    name: Lint Code Base
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: github/super-linter@v4
+        env:
+          VALIDATE_JSON: true
+          LOG_LEVEL: WARN
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
