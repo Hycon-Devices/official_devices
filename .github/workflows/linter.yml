@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: github/super-linter@v4
+      - uses: docker://ghcr.io/github/super-linter:slim-v4
         env:
           VALIDATE_JSON: true
           LOG_LEVEL: WARN
