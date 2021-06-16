@@ -1,0 +1,45 @@
+**Device changes:
+* Upgraded blobs to LA.UM.9.11.r1-03200-NICOBAR.0 (CAF)
+* Updated blobs (MIUI 21.4.28)
+* Added fp shutter in MiCam
+* Fixed 5ghz wifi - A11 Fw
+* Improved 5ghz wifi signal tolerance
+* Improved and fine tuned auto brightness algorithm
+* Fixed random reboots in suspend & 4g usage
+* Fixed KCAL on first boot
+* Fixed GPhotos - device too hot
+* Increased default media volume steps
+* Enabled & fixed sunlight visibility improvement (SVI)
+* Flickering display should be fixed now
+* Reduced min cpu freq & boosts for battery improvement
+* Tuned cpusets & scheduler for better performance
+* Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF in kernel
+* Merged android-4.14-stable & updated to 232
+----------------------------------
+Source Changes:
+• June Security bulletin resolution have been merged.
+• Fixed 15 second auto-lock timer for AppLock , when app is stopped while moving to recents.
+• Added MIUI volume style plugin.
+• Added Compass tile.
+• Added Screen Off FOD.
+• Added Option to set transparency of Quick settings panel.
+• Added Option for theming QS with wallpaper colors.
+• Added Option for theming QS with Custom colors too.
+• Added Toggle for iOS-like toast notification for clipboard access.
+• Replaced default Aosp Blur with Glass blur.
+• Updated HyconOS logo in about settings page.
+• Updated default wallpaper.
+• Added support for one shot auto-brightness.
+• Added DescendantSeamlessClockSwitch.
+• Added Fluid lock clock V2.
+• Improved face unlock detection.
+• Addd rounded corners to activity open/close animation.
+• PixelPropsUtils are Update to June 2021 fingerprint.
+• Added reticker feature.
+• Added iOS-like toast notification for clipboard access.
+• fixed broadcast receivers overflow for system_server.
+• Updated default sounds for ringtone and notification.
+• Enabled AiAi content suggestions service.
+• Added APN configs for LIDL Connect , TPG Singapore,  AT&T 310-280 ids.
+• Added lots of new wallpapers in Hycon walls app.
+• Updated HyconOS Bootanimation.
