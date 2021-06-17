@@ -1,0 +1,4 @@
+Device ChangeLog: 
+
+- Initial Official Build
+- Updated fp to june
