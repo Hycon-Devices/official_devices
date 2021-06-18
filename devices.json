@@ -181,3 +181,18 @@
        ]
     }
 ]
+
+},
+{
+    "brand": "Redmi",
+    "codename": "sweet",
+    "name": "Redmi Note 10 Pro",
+    "supported_versions": [
+       {   
+          "maintainer_name": "BolaRamy",
+          "maintainer_url": "https://github.com/bola980",
+          "version_code": "eleven",
+          "xda_thread": "https://forum.xda-developers.com/t/rom-official-sweet-sweetin-11-hycon-os-v3-5-sunrise.4283767/#post-85090193"
+         ]
+       }
+]
