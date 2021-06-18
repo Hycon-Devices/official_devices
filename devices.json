@@ -179,5 +179,32 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-violet-hyconos-v3-5.4293107/"
          }
        ]
-    }
+   },
+   {
+      "brand": "Redmi",
+      "codename": "sweet",
+      "name": "Redmi Note 10 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "BolaRamy",
+            "maintainer_url": "https://github.com/bola980",
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-sweet-sweetin-11-hycon-os-v3-5-sunrise.4283767/#post-85090193"
+          }
+        ]
+   },
+   {
+      "brand": "OnePlus",
+      "codename": "Kebab",
+      "name": "OnePlus 8T",
+      "supported_versions": [
+         {
+            "maintainer_name": "TheTablaster",
+            "maintainer_url": "https://github.com/Blaster4385",
+            "version_code": "eleven",
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433"
+         }
+      ]
+   }   
 ]
