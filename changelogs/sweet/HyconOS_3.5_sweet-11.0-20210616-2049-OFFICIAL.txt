@@ -1,0 +1,8 @@
+Device changes:
+# v3.5 Sunrise
+- switch to stock kernel
+- improve stability of the ROM
+- Fix some issues
+- source changes
+- June security patch with redfin FP
+- CTS PASSED out of the box
