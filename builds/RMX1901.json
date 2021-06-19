@@ -1,16 +1,16 @@
 [
    {
-      "datetime": 1619314616,
+      "datetime": 1624109269,
       "error": false,
-      "filehash": "906ada33b02d6c07a8e9d4bb335c19ef",
-      "filename": "HyconOS_2.5_RMX1901-11.0-20210425-0138-OFFICIAL.zip",
-      "id": "83102cc1c38e5767549499580339c95a86300d36828438c65d0ce7c515827823",
-      "size": 1668670757,
+      "filehash": "d916feea9c5cf36ae7021415fcb5c2f7",
+      "filename": "HyconOS_3.5_RMX1901-11.0-20210619-1330-OFFICIAL.zip",
+      "id": "20523933accbdcb08bcc826699c1a333661e4bb423824c40e71310d066be94a1",
+      "size": 1680148592,
       "maintainer": "HaSSaN",
       "maintainer_url": "https://github.com/HaSSaN-L",
       "size": 1609528021,
       "telegram_username": "https://t.me/HaSSaN_MoHl",
-      "url": "",
-      "version": "Hashira"
+      "url": "https://github.com/HyconOS-Releases/RMX1901/releases/download/v3.5/HyconOS_3.5_RMX1901-11.0-20210619-1330-OFFICIAL.zip",
+      "version": "Sunrise"
    }
 ]
