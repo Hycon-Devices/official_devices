@@ -1,0 +1,38 @@
+**Device changes:
+
+* Switch to Etherious kernel
+* Update to Redfin's June FP & Desc
+* Added Alipay fingerprint payment support
+* Dyanamically load widevine blobs (Fixes widevine L1 OOTB of non curtana users, credits Ramisky)
+* Dropped Hotword Enrollment blobs
+* Fixes and improvements
+
+----------------------------------
+
+Source Changes:
+• June Security bulletin resolution have been merged.
+• Fixed 15 second auto-lock timer for AppLock , when app is stopped while moving to recents.
+• Added MIUI volume style plugin.
+• Added Compass tile.
+• Added Screen Off FOD.
+• Added Option to set transparency of Quick settings panel.
+• Added Option for theming QS with wallpaper colors.
+• Added Option for theming QS with Custom colors too.
+• Added Toggle for iOS-like toast notification for clipboard access.
+• Replaced default Aosp Blur with Glass blur.
+• Updated HyconOS logo in about settings page.
+• Updated default wallpaper.
+• Added support for one shot auto-brightness.
+• Added DescendantSeamlessClockSwitch.
+• Added Fluid lock clock V2.
+• Improved face unlock detection.
+• Addd rounded corners to activity open/close animation.
+• PixelPropsUtils are Update to June 2021 fingerprint.
+• Added reticker feature.
+• Added iOS-like toast notification for clipboard access.
+• fixed broadcast receivers overflow for system_server.
+• Updated default sounds for ringtone and notification.
+• Enabled AiAi content suggestions service.
+• Added APN configs for LIDL Connect , TPG Singapore,  AT&T 310-280 ids.
+• Added lots of new wallpapers in Hycon walls app.
+• Updated HyconOS Bootanimation.
