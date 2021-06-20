@@ -1,16 +1,16 @@
 [
     {  
-       "datetime": 1619314616,
+       "datetime": 1624119892,
        "error": false,
-       "filehash": "51b77cbeebc685fca9d71d679425c710",
-       "filename": "HyconOS_3.0_begonia-11.0-20210518-1845-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v3-0-aurora.4253903/",
-       "id": "67aef0ac773ed1987622d52912ae192f019e70bb0fde4fa8564440ffcc568dcc",
+       "filehash": "2a4a1052b839edf9c86f45dc6b0618cf",
+       "filename": "HyconOS_3.5_begonia-11.0-20210619-1624-OFFICIAL.zip",                          
+       "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v3-5-sunrise.4253903/",
+       "id": "4bed2edd7c588206eae4cd5b9967b3387c69dff4dc46993518cf4b11a9d6ef2a",
        "maintainer": "abhixv",
        "maintainer_url": "https://github.com/abhixv",
-       "size": 1668670757,
+       "size": 1677050228,
        "telegram_username": "https://t.me/abhixv",
-       "url": "https://github.com/HyconOS-Releases/begonia/releases/download/v3.0/HyconOS_3.0_begonia-11.0-20210518-1845-OFFICIAL.zip",
-       "version": "Blizzard"
+       "url": "https://github.com/HyconOS-Releases/Begonia/releases/download/V3.5/HyconOS_3.5_begonia-11.0-20210619-1624-OFFICIAL.zip",
+       "version": "Sunrise"
     }
 ]
