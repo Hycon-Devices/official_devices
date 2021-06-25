@@ -195,6 +195,20 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "name": "Redmi Note 7/7S",
+      "supported_versions": [
+         {
+            "maintainer_name": "whtisusername",
+            "maintainer_url": "https://github.com/whtisusername",
+            "version_code": "eleven",
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/lavender-rom-11-hyconos-v3-5-sunrise.4296639/"
+         }
+      ]
+   },
+  {
       "brand": "OnePlus",
       "codename": "kebab",
       "name": "OnePlus 8T",

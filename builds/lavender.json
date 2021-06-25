@@ -1,0 +1,16 @@
+[
+    {
+        "datetime": 1624542499,
+        "error": false,
+        "filehash": "7fec67e6e68a60902e72a41237f3310c",
+        "filename": "HyconOS_3.5_lavender-11.0-20210624-1348-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/lavender-rom-11-hyconos-v3-5-sunrise.4296639/",
+        "id": "d227edb03cd8ffb07957a9c703116b6268dba1ebbafcebb216b6ed32a2af575f",
+        "maintainer": "whtisusername",
+        "maintainer_url": "https://github.com/whtisusername",
+        "size": 1542957139,
+        "telegram_username": "whtisusername",
+        "url": "https://github.com/HyconOS-Releases/lavender/releases/download/v3.5/HyconOS_3.5_lavender-11.0-20210624-1348-OFFICIAL.zip",
+        "version": "sunrise"
+    }
+]
