@@ -208,6 +208,20 @@
          }
       ]
    },
+   {
+      "brand": "Xiaomi",
+      "codename": "merlin",
+      "name": "Redmi Note 9",
+      "supported_versions": [
+         {
+            "maintainer_name": "Box In A Box",
+            "maintainer_url": "https://github.com/Box-boi",
+            "version_code": "eleven",
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-note-9.4297331/"
+         }
+      ]
+   },
   {
       "brand": "OnePlus",
       "codename": "kebab",

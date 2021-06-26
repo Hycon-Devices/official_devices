@@ -1,16 +1,16 @@
 [
   {
-    "datetime": 1619309345,
+    "datetime": 1624686426,
     "error": false,
-    "filehash": "340cace8d96612de8e5fe762e815382d",
-    "filename": "HyconOS_2.5_merlin-11.0-20210416-2126-OFFICIAL.zip",
-    "id": "26869d1030442a1e208ec62247b0ac5501b03c25ce496d3bb92356651f5f9dd8",
-    "size": 1643814480,
-    "forum_url": "",
+    "filehash": "1754511aec5f5d925557da16fd01be97",
+    "filename": "HyconOS_3.5_merlin-11.0-20210626-0551-OFFICIAL.zip",
+    "id": "cfd29bae6b18e6c75a1a64929a79c7ada039edfda548a93bd980fe184e51a91c",
+    "size": 1900677833,
+    "forum_url": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-note-9.4297331/",
     "maintainer": "Box_Boi",
     "maintainer_url": "https://github.com/Box-boi",
     "telegram_username": "Box_Boi",
-    "url": "https://github.com/HyconOS-Releases/merlin/releases/download/2.5/HyconOS_2.5_merlin-11.0-20210416-2126-OFFICIAL.zip",
-    "version": "Hashira"
+    "url": "https://github.com/HyconOS-Releases/merlin/releases/download/V3.5/HyconOS_3.5_merlin-11.0-20210626-0551-OFFICIAL.zip",
+    "version": "Sunrise"
   }
 ]
