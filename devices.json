@@ -222,6 +222,20 @@
          }
       ]
    },
+   {
+      "brand": "Xiaomi",
+      "codename": "lava",
+      "name": "Redmi 9/Poco M2",
+      "supported_versions": [
+         {
+            "maintainer_name": "Box In A Box",
+            "maintainer_url": "https://github.com/Box-boi",
+            "version_code": "eleven",
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-9-poco-m2.4297333/"
+         }
+      ]
+   },
   {
       "brand": "OnePlus",
       "codename": "kebab",
