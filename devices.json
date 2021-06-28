@@ -98,6 +98,20 @@
       ]
    },
       {
+      "brand": "Realme",
+      "codename": "RMX2001",
+      "name": "Realme 6 Series",
+      "supported_versions": [
+         {
+            "maintainer_name": "SriBalaji & Arneesh",
+            "maintainer_url": "https://gitlab.com/sribalaji",
+            "version_code": "eleven",
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-hycon-os-3-5-sunrise-rmx2001-realme-6-series-g90t-series-official.4298029/#post-85249903"
+         }
+      ]
+   },
+      {
       "brand": "Redmi",
       "codename": "begonia",
       "name": "Redmi note 8 Pro",
