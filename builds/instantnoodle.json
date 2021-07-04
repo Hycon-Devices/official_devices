@@ -1,16 +1,16 @@
 [
     {
-       "datetime": 1618661093,
+       "datetime": 1625417571,
        "error": false,
-       "filehash": "b5de712a5c7ca643049bc4e23ae0c3f8",
-       "filename": "HyconOS_2.5_instantnoodle-11.0-20210417-1205-OFFICIAL.zip",
+       "filehash": "d766dc75a1a4ac440e7256ab5a79 bcOe",
+       "filename": "HyconOS_3.5_instantnoodle-11.0-20210703-0644-OFFICIAL.zip",
        "forum_url": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v2-0-blizzard.4227549/",
-       "id": "4266d5fb54696d34c9a42c4d0e0cc22a90d3a897d862d77866e693a9e78fb1e8",
+       "id": "8a6a1b1b2468cf49fc4ae23a07a767f0d8f414ce709a68b349226b7ad1bfafd4",
        "maintainer": "CryogenChill",
        "maintainer_url": "https://github.com/CryogenChill",
        "size": 1749599119,
        "telegram_username": "ChilledCryo",
-       "url": "https://github.com/HyconOS-Releases/OnePlus8-instantnoodle/releases/download/v2.5/HyconOS_2.5_instantnoodle-11.0-20210417-1205-OFFICIAL.zip",
-       "version": "Hashira"
+       "url": "https://github.com/HyconOS-Releases/instantnoodle/releases/download/v3.5/HyconOS_3.5_instantnoodle-11.0-20210703-0644-OFFICIAL.zip",
+       "version": "Sunrise"
     }
 ]
