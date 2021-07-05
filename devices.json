@@ -28,16 +28,16 @@
       ]
    },
    {
-      "brand": "Xiaomi",
-      "codename": "wayne",
-      "name": "Xiaomi Mi 6X",
+      "brand": "Poco",
+      "codename": "vayu",
+      "name": "Poco X3 Pro",
       "supported_versions": [
          {
             "maintainer_name": "chdelacr",
             "maintainer_url": "https://github.com/chdelacr",
             "version_code": "eleven",
-            "version_name": "Aurora",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-hycon-os-xiaomi-mi-6x-wayne-11.4233003/"
+            "version_name": "Sunrise",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-hycon-os-poco-x3-pro-vayu-bhima.4301847/"
          }
       ]
    },
