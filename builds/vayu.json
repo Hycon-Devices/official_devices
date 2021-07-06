@@ -1,0 +1,16 @@
+[
+   {
+      "datetime": 1625513786,
+      "error": false,
+      "filehash": "65dee9a56234b495477519cdec5a0ec4",
+      "filename": "HyconOS_3.5_vayu-11.0-20210705-1936-OFFICIAL.zip",
+      "forum_url": "https://forum.xda-developers.com/t/rom-11-official-hycon-os-poco-x3-pro-vayu-bhima.4301847/",
+      "id": "aac9ef70c3c2207653ad1f731d2586c6be25c9fb1d91505a2063cbb771a2331f",
+      "maintainer": "Christian de la Cruz",
+      "maintainer_url": "https://github.com/chdelacr",
+      "size": 2069258665,
+      "telegram_username": "https://t.me/chdelacr",
+      "url": "https://github.com/HyconOS-Releases/vayu/releases/download/V3.5/HyconOS_3.5_vayu-11.0-20210705-1936-OFFICIAL.zip",
+      "version": "Sunrise"
+   }
+]
