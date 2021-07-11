@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1623778180,
+        "datetime": 1625936430,
         "error": false,
-        "filehash": "bf5a2a0afea00b548a0c12b4546b89fb",
-        "filename": "HyconOS_3.5_ginkgo-11.0-20210615-1730-OFFICIAL.zip",
+        "filehash": "69c40e77c337dbca621ad83abe4293ef",
+        "filename": "HyconOS_4.0_ginkgo-11.0-20210710-1700-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-redmi-note-8-8t-ginkgo-willow.4226983/",
-        "id": "40f086ee5d3929b2c7b52dd9b5a93625bd353a8b19d049afcedaa5bc7e35f5c4",
+        "id": "83e3891b4023dcb3885b605b39c23d9e604db70f59189be0201df6dc6d3158e4",
         "maintainer": "MADMAX and introdructor",
         "maintainer_url": "https://github.com/madmax7896",
-        "size": 1589742730,
+        "size": 1603557256,
         "telegram_username": "Prophecy_Child and Introdructor",
-        "url": "https://github.com/HyconOS-Releases/ginkgo/releases/download/V3.5/HyconOS_3.5_ginkgo-11.0-20210615-1730-OFFICIAL.zip",
-        "version": "Sunrise"
+        "url": "https://github.com/HyconOS-Releases/ginkgo/releases",
+        "version": "EPHEMERAL"
     }
 ]
