@@ -123,20 +123,20 @@
       "url": "https://www.pling.com/p/1544683/",
       "version": "Sunrise"
     },
-    {
-      "datetime": 1624019881,
+    {  
+      "datetime": 1625980226,
       "error": false,
-      "filehash": "58fdd768247bf0295dab7a65ffd7dc2b",
-      "filename": "HyconOS_3.5_kebab-11.0-20210618-1238-OFFICIAL.zip",
+      "filehash": "4ce91e5258c4351a8ab0ff61d5f10d3e",
+      "filename": "HyconOS_4.0_kebab-11.0-20210711-0510-OFFICIAL.zip",
       "forum_url": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433",
-      "id": "8404d30bd3f7a5b60ed31936c7647a081a3009efb031754d2e71410ba07cb3cc",
+      "id": "9aa84a49440510307688182157b3ce17a7d9258ce91980d87742f1f728c9e0e9",
       "maintainer": "TheTablaster",
       "maintainer_url": "https://github.com/Blaster4385",
-      "size": 1642969997,
+      "size": 1655265437,
       "telegram_username": "V3NK4135H",
       "url": "https://www.pling.com/p/1544683/",
-      "version": "Sunrise"
-    },
+      "version": "Ephemeral"
+   },
     {
       "datetime": 1618661093,
       "error": false,

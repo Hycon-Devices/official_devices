@@ -1,0 +1,6 @@
+Device changes:
+# v3.5 Ephemeral
+- Added Device Settings
+- Added OnePlus Dolby
+- Added DC dimming
+- Misc Changes
