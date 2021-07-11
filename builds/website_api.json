@@ -14,18 +14,18 @@
       "version": "Aurora , Dropped"
     },
     {
-      "datetime": 1623916013,
+      "datetime": 1625978073,
       "error": false,
-      "filehash": "dc7078c594fdc79f7ecd96a54c76ad0a",
-      "filename": "HyconOS_3.5_violet-11.0-20210617-0747-OFFICIAL.zip",
-      "forum_url": "https://forum.xda-developers.com/t/rom-11-official-violet-hyconos-v3-5.4293107/",
-      "id": "d408eef871005a4a36ea98d0dcc468d016593c6a51cdfcedeaaa5ed95cfa5ad9",
+      "filehash": "25b38bacc1b3744cf62b0ffbe504f998",
+      "filename": "HyconOS_4.0_violet-11.0-20210711-0435-OFFICIAL.zip",
+      "forum_url": "https://forum.xda-developers.com/t/rom-11-official-violet-hyconos-v4-0-for-redmi-note-7-pro.4293107/",
+      "id": "5bd51bd280f67f0989c75ca896deb4817197e48e430512a64a15e4429c368aec",
       "maintainer": "Hariprakash",
       "maintainer_url": "https://github.com/Thunder105",
-      "size": 1601212589,
+      "size": 1608667195,
       "telegram_username": "https://t.me/Thunder105",
       "url": "https://www.pling.com/p/1544683/",
-      "version": "Sunrise"
+      "version": "Ephemeral"
     },
     {
       "datetime": 1623876384,
