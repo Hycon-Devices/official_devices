@@ -56,19 +56,19 @@
       "version": "Sunrise"
     },
     {  
-      "datetime": 1623857522,
+      "datetime": 1625976295,
       "error": false,
-      "filehash": "856589feb860f5606065450fa5b4ef2f",
-      "filename": "HyconOS_3.5_RMX1851-11.0-20210616-1532-OFFICIAL.zip",
+      "filehash": "259f103bed76174fca8254cedfb3254f",
+      "filename": "HyconOS_4.0_RMX1851-11.0-20210711-0404-OFFICIAL.zip",
       "forum_url": "https://forum.xda-developers.com/t/hycon-os-v2-0-bllizard-official-realme-3-pro-rmx1851.4239547/",
-      "id": "26961c1683dc8489615ee16890084bda3cae2344f72d83eca6ee5407dc68c52c",
+      "id": "b54b64370cb7de9414a34d8de04b314b57a2ef3701576b03bca979371cf78b6e",
       "maintainer": "TheTablaster",
       "maintainer_url": "https://github.com/Blaster4385",
-      "size": 1689682265,
+      "size": 1702036600,
       "telegram_username": "V3NK4135H",
       "url": "https://www.pling.com/p/1544683/",
-      "version": "Sunrise"
-    },
+      "version": "Ephemeral"
+   },
     {
       "datetime": 1623829117,
       "error": false,
