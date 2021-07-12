@@ -1,16 +1,16 @@
 [
   {
-    "datetime": 1624119938,
+   "datetime": 1626106061,
     "error": false,
-    "filehash": "a768c292d49a3537ad5d81cf5d24c9ef",
-    "filename": "HyconOS_3.5_miatoll-11.0-20210619-1628-OFFICIAL.zip",
-    "id": "64b1c93ae20014d4fdf93a7c9a1761d4964efe334b93edc916a0a5ecc0463e18",
-    "size": 1991146538,
+   "filehash": "0f10187f8c899d2dccf0df52c3751257",
+   "filename": "HyconOS_4.0_miatoll-11.0-20210712-1610-OFFICIAL.zip",
+   "id": "815829253355e8c8a59383b6d77690192319a41af65535868e3c7951cd791c29",
+   "size": 1850711897,
     "forum_url": "",
     "maintainer": "HaSSaN",
     "maintainer_url": "https://github.com/HaSSaN-L",
     "telegram_username": "t.me/HaSSaN_MoHl",
-    "url": "https://github.com/HyconOS-Releases/Miatoll/releases/download/V3.5/HyconOS_3.5_miatoll-11.0-20210619-1628-OFFICIAL.zip",
-    "version": "Sunrise"
+    "url": "https://github.com/HyconOS-Releases/miatoll/release",
+    "version": "Ephemeral"
   }
 ]

@@ -1,0 +1,55 @@
+**Device changes:
+
+- July Security Patch
+- Added July Redfin FP
+- Enforcing Build
+- Updated to latest Etherious kernel 4.14.238-Etherious-LA.UM.9.1.r1-10600.SMxxx0.0
+- Fixes and improvements
+
+----------------------------------
+
+**Source ChangeLog:
+
+- Merged July Security bulletin resolutions
+- Added Edge Music Control Gesture.
+- Added ShapeShift Volume Panel Style.
+- Added P404 Volume Panel.
+- Added Android S & S(dp3) lockscreen Clocks.
+- Android S clocks will change colours.
+- Added Android S style switches.
+- Added Gaming mode.
+- Added Gaming mode tile.
+- Added Heads-up Blacklist & Stoplist options in hub.
+- Added less boring Heads-up option.
+- Fixed NPE when notification icon is empty.
+- Added support for MiSound FX.
+- Added support for DiracSound FX.
+- fixed Default min refresh rate to 60 Hz.
+- Added Alarms Blocker under developer settings.
+- Added Wakelock Blocker under developer settings.
+- Added one minute timeout to global actions dialog.
+- Added clipboard toast toggle under privacy settings.
+- Added back QS data usage.
+- Added Adaptive Playback feature under developer settings.
+- Allowed changing face unlock method when locked 
+- Added lockscreen background blur. 
+- Spoofed devices to Pixel XL for Google Photos unlimited upload storage.
+- Removed duplicated lock icon entries from HyconHub.
+- Fixed wallpaper crash on homescreen.
+- Updated default lock and unlock sounds.
+- Updated default wallpaper thanks to @shankygotthatart for new wallpaper.
+- Fixed old bootanimation script issues thanks to @aryanata_andi for helping.
+- Removed QS scrim and transparency.
+- Updated Exfat repos and fixed its known issues.
+- Added Permissions Hub under privacy settings
+- Fixed high battery drain after using flashlight.
+- Fixed some OTA Updater issues.
+- Reverted redesigned mediaplayerview to fix QS issues.
+- Avoided double ripple in QS detail view.
+- Made iOS clipboard text optional.
+- Prevented guest user from toggling mobile data from Quick Setting.
+- Fixed QS detail panel with header image enabled.
+- Allowed users to block individual Audio apps from resuming in expanded QS.
+- Used Material icons for missed calls.
+- Tried to fix upstream status bar+keyguard bug.
+- Added some Faceunlock and AppLock improvements.
