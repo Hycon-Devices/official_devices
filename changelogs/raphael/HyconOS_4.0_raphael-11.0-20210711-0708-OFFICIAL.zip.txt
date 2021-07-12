@@ -1,0 +1,6 @@
+Device ChangeLog: 
+# v4.0 Ephemeral
+- Removed Gboard rounded corners
+- Added a switch for thermal profiles
+- Updated blobs from MIUI RKQ1.200826.002 21.6.30
+- Enabled USB fast charging
