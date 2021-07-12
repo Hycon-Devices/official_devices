@@ -220,5 +220,19 @@
       "telegram_username": "NotReallyDust",
       "url": "https://www.pling.com/p/1544683/",
       "version": "Sunrise, Dropped"
-    }
+    },
+    {
+   "datetime": 1625988551,
+   "error": false,
+   "filehash": "0185669d6b23b524eea78195f28be3ec",
+   "filename": "HyconOS_4.0_RMX2001-11.0-20210711-0731-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/t/rom-11-hycon-os-v4-0-ephemeral-rmx2001-realme-6-series-g90t-series-official.4298029/",
+   "id": "5923ef8e3a71130eba8937a9e8e609b008746f463b55e1cac9a004fc96a3425f",
+   "maintainer": "SriBalaji and Arneesh",
+   "maintainer_url": "https://gitlab.com/sribalaji",
+   "size": 1447236568,
+   "telegram_username": "https://t.me/TheCloverly",
+   "url": "https://github.com/HyconOS-Releases/RMX2001/releases/download/v3.5/HyconOS_3.5_RMX2001-11.0-20210628-0434-OFFICIAL.zip",
+   "version": "Ephemeral"
+   }
 ]
