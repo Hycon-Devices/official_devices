@@ -1,7 +1,7 @@
 # Changelog for Xiaomi Redmo Note 8 Pro (Begonia)
 
 ## HyconOS V3.5 - 20/06/2021
-- Merged May SP 
+- Merged June SP 
 - Gapps Included
 - Fw Included﻿
 - Update blobs from begonia V12.0.7.0.QGGMIXM 
