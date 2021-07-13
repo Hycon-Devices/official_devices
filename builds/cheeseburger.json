@@ -1,17 +1,16 @@
 [
-    {  
-       "datetime": 1618645129,
-       "error": false,
-       "filehash": "f8ffd01a208dbeec5880dae3c4dbac63",
-       "filename": "HyconOS_2.5_cheeseburger-11.0-20210417-0739-OFFICIAL.zip",
-       "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v2-5-hashira.4227785/",
-       "id": "10e66fe1923de1131a58db524e0a9de114b449ac133dd6004a06dc856fc839ab",
-       "maintainer": "CryogenChill",
-       "maintainer_url": "https://github.com/CryogenChill",
-       "size": 1570609511,
-       "telegram_username": "ChilledCryo",
-       "url": "https://github.com/HyconOS-Releases/OnePlus5-cheeseburger/releases/download/v2.5/HyconOS_2.5_cheeseburger-11.0-20210417-0739-OFFICIAL.zip",
-       "version": "Hashira"
+    {
+        "datetime": 1618645129,
+        "error": false,
+        "filehash": "f8ffd01a208dbeec5880dae3c4dbac63",
+        "filename": "HyconOS_2.5_cheeseburger-11.0-20210417-0739-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v2-5-hashira.4227785/",
+        "id": "10e66fe1923de1131a58db524e0a9de114b449ac133dd6004a06dc856fc839ab",
+        "maintainer": "CryogenChill",
+        "maintainer_url": "https://github.com/CryogenChill",
+        "size": 1570609511,
+        "telegram_username": "ChilledCryo",
+        "url": "https://github.com/HyconOS-Releases/OnePlus5-cheeseburger/releases/download/v2.5/HyconOS_2.5_cheeseburger-11.0-20210417-0739-OFFICIAL.zip",
+        "version": "Hashira"
     }
 ]
-   

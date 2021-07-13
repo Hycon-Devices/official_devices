@@ -1,16 +1,16 @@
 [
-  {
-    "datetime": 1624698541,
-    "error": false,
-    "filehash": "795a3134691b4e7934a795cd1c0f18c7",
-    "filename": "HyconOS_3.5_beryllium-11.0-20210626-0910-OFFICIAL.zip",
-    "size": 1568179114,
-    "id": "ef3e3106b93dbe27500edf65de0bbb372dab88c44d5f59f8fa1e7aec9afdcde2",
-    "forum_url": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253",
-    "maintainer": "XtremeOrnob",
-    "maintainer_url": "https://github.com/XtremeOrnob",
-    "telegram_username": "XtremeOrnob",
-    "url": "https://github.com/HyconOS-Releases/Beryllium/releases/download/V3.5/HyconOS_3.5_beryllium-11.0-20210626-0910-OFFICIAL.zip",
-    "version": "Sunrise"
-  }
+    {
+        "datetime": 1624698541,
+        "error": false,
+        "filehash": "795a3134691b4e7934a795cd1c0f18c7",
+        "filename": "HyconOS_3.5_beryllium-11.0-20210626-0910-OFFICIAL.zip",
+        "size": 1568179114,
+        "id": "ef3e3106b93dbe27500edf65de0bbb372dab88c44d5f59f8fa1e7aec9afdcde2",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253",
+        "maintainer": "XtremeOrnob",
+        "maintainer_url": "https://github.com/XtremeOrnob",
+        "telegram_username": "XtremeOrnob",
+        "url": "https://github.com/HyconOS-Releases/Beryllium/releases/download/V3.5/HyconOS_3.5_beryllium-11.0-20210626-0910-OFFICIAL.zip",
+        "version": "Sunrise"
+    }
 ]
