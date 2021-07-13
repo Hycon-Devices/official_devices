@@ -1,0 +1,25 @@
+name: Json Formatter
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Format json
+        run: bash tools/format.sh
+        continue-on-error: true
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
