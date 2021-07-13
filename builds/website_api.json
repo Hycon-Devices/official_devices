@@ -221,18 +221,18 @@
         "version": "Ephemeral"
     },
     {
-        "datetime": 1625513786,
+        "datetime": 1626198425,
         "error": false,
-        "filehash": "65dee9a56234b495477519cdec5a0ec4",
-        "filename": "HyconOS_3.5_vayu-11.0-20210705-1936-OFFICIAL.zip",
+        "filehash": "0ed0c3127481945c34a78e5c0ba4e5d5",
+        "filename": "HyconOS_4.0_vayu-11.0-20210713-1747-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-11-official-hycon-os-poco-x3-pro-vayu-bhima.4301847/",
-        "id": "aac9ef70c3c2207653ad1f731d2586c6be25c9fb1d91505a2063cbb771a2331f",
+        "id": "369e66a92ae036cd1198312fbaf3585af21b8917d35e5b0b9e68d222dcbe2835",
         "maintainer": "Christian de la Cruz",
         "maintainer_url": "https://github.com/chdelacr",
-        "size": 2069258665,
+        "size": 2064673633,
         "telegram_username": "https://t.me/chdelacr",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Sunrise"
+        "version": "Ephemeral"
     },
     {
         "datetime": 1625417571,
