@@ -1,267 +1,267 @@
 [
-  {
-      "brand": "Xiaomi",
-      "codename": "ginkgo",
-      "name": "Redmi Note 8",
-      "supported_versions": [
-         {
-            "maintainer_name": "MADMAX and introdructor",
-            "maintainer_url": "https://github.com/madmax7896",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-redmi-note-8-8t-ginkgo-willow.4226983/"
-         }
-      ]
-   },
-  {
-      "brand": "Xiaomi",
-      "codename": "miatoll",
-      "name": "Redmi Note 9S/9Pro/9Pro Max/Poco M2Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "HaSSaN",
-            "maintainer_url": "https://github.com/HaSSaN-L",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v4-0-ephemeral-official-redmi-miatoll.4304805/"
-         }
-      ]
-   },
-   {
-      "brand": "Poco",
-      "codename": "vayu",
-      "name": "Poco X3 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "chdelacr",
-            "maintainer_url": "https://github.com/chdelacr",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-hycon-os-poco-x3-pro-vayu-bhima.4301847/"
-         }
-      ]
-   },
-   {
-      "brand": "OnePlus",
-      "codename": "instantnoodle",
-      "name": "OnePlus 8",
-      "supported_versions": [
-         {
-            "maintainer_name": "CryogenChill",
-            "maintainer_url": "https://github.com/CryogenChill",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v2-5-hashira.4227549/"
-         }
-      ]
-   },
-   {
-      "brand": "OnePlus",
-      "codename": "cheeseburger",
-      "name": "OnePlus 5",
-      "supported_versions": [
-         {
-            "maintainer_name": "CryogenChill",
-            "maintainer_url": "https://github.com/CryogenChill",
-            "version_code": "eleven",
-            "version_name": "Hashira",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v2-5-hashira.4227785/"
-         }
-      ]
-   },
-  {
-      "brand": "Realme",
-      "codename": "RMX1901",
-      "name": "Realme X",
-      "supported_versions": [
-         {
-            "maintainer_name": "HaSSaN",
-            "maintainer_url": "https://github.com/HaSSaN-L",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-rmx1901-11-hycon-os-v2-5-hashira.4267291/"
-         }
-      ]
-   },
-      {
-      "brand": "Realme",
-      "codename": "RMX1851",
-      "name": "Realme 3 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "TheTablaster",
-            "maintainer_url": "https://github.com/Blaster4385",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v2-0-bllizard-official-realme-3-pro-rmx1851.4239547/"
-         }
-      ]
-   },
-      {
-      "brand": "Realme",
-      "codename": "RMX2001",
-      "name": "Realme 6 Series",
-      "supported_versions": [
-         {
-            "maintainer_name": "SriBalaji & Arneesh",
-            "maintainer_url": "https://gitlab.com/sribalaji",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-hycon-os-v4-0-ephemeral-rmx2001-realme-6-series-g90t-series-official.42980293"
-         }
-      ]
-   },
-      {
-      "brand": "Redmi",
-      "codename": "begonia",
-      "name": "Redmi note 8 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "abhixv",
-            "maintainer_url": "https://github.com/abhixv",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v3-5-sunrise.4253903/"
-         }
-      ]
-   },
-      {
-      "brand": "Redmi",
-      "codename": "ysl",
-      "name": "Redmi S2/Y2",
-      "supported_versions": [
-         {
-            "maintainer_name": "Dustxyz",
-            "maintainer_url": "https://github.com/dustxyz",
-            "version_code": "eleven",
-            "version_name": "Aurora",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-ysl-11-hycon-os-v3-0-aurora.4279455/"
-         }
-      ]
-   },
-      {
-      "brand": "Poco",
-      "codename": "phoenix",
-      "name": "Poco X2",
-      "supported_versions": [
-         {
-            "maintainer_name": "Nasir Ali",
-            "maintainer_url": "https://github.com/Nasir-Buddy",
-            "version_code": "eleven",
-            "version_name": "Aurora"
-         }
-      ]
-   },
-      {
-      "brand": "Xiaomi",
-      "codename": "beryllium",
-      "name": "POCO F1",
-      "supported_versions": [
-         {
-            "maintainer_name": "XtremeOrnob",
-            "maintainer_url": "https://github.com/XtremeOrnob",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253"
-         }
-      ]
-   },
-   {
-      "brand": "Redmi",
-      "codename": "raphael",
-      "name": "Redmi K20 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "Anurag Bhaumik(wckd12)",
-            "maintainer_url": "https://github.com/anuragbhaumik",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-raphael-hyconos-16-06-2021.4292689/"
-         }
-      ]
-   },
-   {
-      "brand": "Redmi",
-      "codename": "violet",
-      "name": "Redmi Note 7 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "Hariprakash",
-            "maintainer_url": "https://github.com/Thunder105",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-violet-hyconos-v4-0-for-redmi-note-7-pro.4293107/"
-         }
-      ]
-   },
-   {
-      "brand": "Redmi",
-      "codename": "sweet",
-      "name": "Redmi Note 10 Pro",
-      "supported_versions": [
-         {
-            "maintainer_name": "BolaRamy",
-            "maintainer_url": "https://github.com/bola980",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-sweet-sweetin-11-hycon-os-v3-5-sunrise.4283767/#post-85090193"
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "lavender",
-      "name": "Redmi Note 7/7S",
-      "supported_versions": [
-         {
-            "maintainer_name": "whtisusername",
-            "maintainer_url": "https://github.com/whtisusername",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/lavender-rom-11-hyconos-v3-5-sunrise.4296639/"
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "merlin",
-      "name": "Redmi Note 9",
-      "supported_versions": [
-         {
-            "maintainer_name": "Box In A Box",
-            "maintainer_url": "https://github.com/Box-boi",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-note-9.4297331/"
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "lava",
-      "name": "Redmi 9/Poco M2",
-      "supported_versions": [
-         {
-            "maintainer_name": "Box In A Box",
-            "maintainer_url": "https://github.com/Box-boi",
-            "version_code": "eleven",
-            "version_name": "Sunrise",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-9-poco-m2.4297333/"
-         }
-      ]
-   },
-  {
-      "brand": "OnePlus",
-      "codename": "kebab",
-      "name": "OnePlus 8T",
-      "supported_versions": [
-         {
-            "maintainer_name": "TheTablaster",
-            "maintainer_url": "https://github.com/Blaster4385",
-            "version_code": "eleven",
-            "version_name": "Ephemeral",
-            "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433"
-         }
-      ]
-   }
+    {
+        "brand": "Xiaomi",
+        "codename": "ginkgo",
+        "name": "Redmi Note 8",
+        "supported_versions": [
+            {
+                "maintainer_name": "MADMAX and introdructor",
+                "maintainer_url": "https://github.com/madmax7896",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-redmi-note-8-8t-ginkgo-willow.4226983/"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "miatoll",
+        "name": "Redmi Note 9S/9Pro/9Pro Max/Poco M2Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "HaSSaN",
+                "maintainer_url": "https://github.com/HaSSaN-L",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v4-0-ephemeral-official-redmi-miatoll.4304805/"
+            }
+        ]
+    },
+    {
+        "brand": "Poco",
+        "codename": "vayu",
+        "name": "Poco X3 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "chdelacr",
+                "maintainer_url": "https://github.com/chdelacr",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-hycon-os-poco-x3-pro-vayu-bhima.4301847/"
+            }
+        ]
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "instantnoodle",
+        "name": "OnePlus 8",
+        "supported_versions": [
+            {
+                "maintainer_name": "CryogenChill",
+                "maintainer_url": "https://github.com/CryogenChill",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-instantnoodle-11-hycon-os-v2-5-hashira.4227549/"
+            }
+        ]
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "cheeseburger",
+        "name": "OnePlus 5",
+        "supported_versions": [
+            {
+                "maintainer_name": "CryogenChill",
+                "maintainer_url": "https://github.com/CryogenChill",
+                "version_code": "eleven",
+                "version_name": "Hashira",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-cheeseburger-11-hycon-os-v2-5-hashira.4227785/"
+            }
+        ]
+    },
+    {
+        "brand": "Realme",
+        "codename": "RMX1901",
+        "name": "Realme X",
+        "supported_versions": [
+            {
+                "maintainer_name": "HaSSaN",
+                "maintainer_url": "https://github.com/HaSSaN-L",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-rmx1901-11-hycon-os-v2-5-hashira.4267291/"
+            }
+        ]
+    },
+    {
+        "brand": "Realme",
+        "codename": "RMX1851",
+        "name": "Realme 3 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "TheTablaster",
+                "maintainer_url": "https://github.com/Blaster4385",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v2-0-bllizard-official-realme-3-pro-rmx1851.4239547/"
+            }
+        ]
+    },
+    {
+        "brand": "Realme",
+        "codename": "RMX2001",
+        "name": "Realme 6 Series",
+        "supported_versions": [
+            {
+                "maintainer_name": "SriBalaji & Arneesh",
+                "maintainer_url": "https://gitlab.com/sribalaji",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-hycon-os-v4-0-ephemeral-rmx2001-realme-6-series-g90t-series-official.42980293"
+            }
+        ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "begonia",
+        "name": "Redmi note 8 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "abhixv",
+                "maintainer_url": "https://github.com/abhixv",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v3-5-sunrise.4253903/"
+            }
+        ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "ysl",
+        "name": "Redmi S2/Y2",
+        "supported_versions": [
+            {
+                "maintainer_name": "Dustxyz",
+                "maintainer_url": "https://github.com/dustxyz",
+                "version_code": "eleven",
+                "version_name": "Aurora",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-ysl-11-hycon-os-v3-0-aurora.4279455/"
+            }
+        ]
+    },
+    {
+        "brand": "Poco",
+        "codename": "phoenix",
+        "name": "Poco X2",
+        "supported_versions": [
+            {
+                "maintainer_name": "Nasir Ali",
+                "maintainer_url": "https://github.com/Nasir-Buddy",
+                "version_code": "eleven",
+                "version_name": "Aurora"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "beryllium",
+        "name": "POCO F1",
+        "supported_versions": [
+            {
+                "maintainer_name": "XtremeOrnob",
+                "maintainer_url": "https://github.com/XtremeOrnob",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253"
+            }
+        ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "raphael",
+        "name": "Redmi K20 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "Anurag Bhaumik(wckd12)",
+                "maintainer_url": "https://github.com/anuragbhaumik",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-raphael-hyconos-16-06-2021.4292689/"
+            }
+        ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "violet",
+        "name": "Redmi Note 7 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "Hariprakash",
+                "maintainer_url": "https://github.com/Thunder105",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-violet-hyconos-v4-0-for-redmi-note-7-pro.4293107/"
+            }
+        ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "sweet",
+        "name": "Redmi Note 10 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "BolaRamy",
+                "maintainer_url": "https://github.com/bola980",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-sweet-sweetin-11-hycon-os-v3-5-sunrise.4283767/#post-85090193"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "name": "Redmi Note 7/7S",
+        "supported_versions": [
+            {
+                "maintainer_name": "whtisusername",
+                "maintainer_url": "https://github.com/whtisusername",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/lavender-rom-11-hyconos-v3-5-sunrise.4296639/"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "merlin",
+        "name": "Redmi Note 9",
+        "supported_versions": [
+            {
+                "maintainer_name": "Box In A Box",
+                "maintainer_url": "https://github.com/Box-boi",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-note-9.4297331/"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "lava",
+        "name": "Redmi 9/Poco M2",
+        "supported_versions": [
+            {
+                "maintainer_name": "Box In A Box",
+                "maintainer_url": "https://github.com/Box-boi",
+                "version_code": "eleven",
+                "version_name": "Sunrise",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-9-poco-m2.4297333/"
+            }
+        ]
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "kebab",
+        "name": "OnePlus 8T",
+        "supported_versions": [
+            {
+                "maintainer_name": "TheTablaster",
+                "maintainer_url": "https://github.com/Blaster4385",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433"
+            }
+        ]
+    }
 ]

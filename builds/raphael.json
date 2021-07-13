@@ -1,18 +1,16 @@
 [
-
-	{
-		"datetime": 1625987173,
-		"error": false,
-		"filehash": "f374c4ecb815d48b3c0fe1103cf5621d",
-		"filename": "HyconOS_4.0_raphael-11.0-20210711-0708-OFFICIAL.zip",
-		"forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-raphael-hyconos-16-06-2021.4292689/",
-		"id": "c90b6d09d49287d2f451779e7b75dbe7f80f1c846e07918082c687cb37e034f1",
-		"maintainer": "Anurag Bhaumik(wckd12)",
-		"maintainer_url": "https://github.com/anuragbhaumik",
-		"size": 1749207321,
-		"telegram_username": "https://t.me/wckd12",
-		"url": "https://github.com/HyconOS-Releases/raphael/releases/tag/v3.5",
-		"version": "Ephemeral"
-	}
-
+    {
+        "datetime": 1625987173,
+        "error": false,
+        "filehash": "f374c4ecb815d48b3c0fe1103cf5621d",
+        "filename": "HyconOS_4.0_raphael-11.0-20210711-0708-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-raphael-hyconos-16-06-2021.4292689/",
+        "id": "c90b6d09d49287d2f451779e7b75dbe7f80f1c846e07918082c687cb37e034f1",
+        "maintainer": "Anurag Bhaumik(wckd12)",
+        "maintainer_url": "https://github.com/anuragbhaumik",
+        "size": 1749207321,
+        "telegram_username": "https://t.me/wckd12",
+        "url": "https://github.com/HyconOS-Releases/raphael/releases/tag/v3.5",
+        "version": "Ephemeral"
+    }
 ]
