@@ -14,5 +14,3 @@ do
     mv tmp/format.json $i
     rm -rf tmp
 done
-
-git commit -am "json: autoformat"

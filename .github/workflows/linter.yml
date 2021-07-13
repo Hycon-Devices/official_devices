@@ -15,9 +15,5 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: docker://ghcr.io/github/super-linter:slim-v4
-        env:
-          VALIDATE_JSON: true
-          LOG_LEVEL: WARN
-          DEFAULT_BRANCH: master
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate Json
+        run: python tools/validate.py
