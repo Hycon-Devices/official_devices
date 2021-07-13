@@ -13,8 +13,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Validate Json
+        run: python tools/validate.py
+
       - name: Format json
         run: bash tools/format.sh
+
+      - name: Commit Changes
+        run: "git commit -am '[Hycon-CI]: json autoformat'"
         continue-on-error: true
 
       - name: Push
