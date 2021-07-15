@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1624542499,
+        "datetime": 1626337901,
         "error": false,
-        "filehash": "7fec67e6e68a60902e72a41237f3310c",
-        "filename": "HyconOS_3.5_lavender-11.0-20210624-1348-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/lavender-rom-11-hyconos-v3-5-sunrise.4296639/",
-        "id": "d227edb03cd8ffb07957a9c703116b6268dba1ebbafcebb216b6ed32a2af575f",
+        "filehash": "7c0abff6a09ab56eb7b650e08f60ee7d",
+        "filename": "HyconOS_4.0_lavender-11.0-20210715-0831-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/lavender-rom-official-11-hyconos-v4-0-ephemeral.4306055/",
+        "id": "ff254ae39fa16b6eeddb6670b5af08622e0bf301c43216e981a2135d070ffba6",
         "maintainer": "whtisusername",
         "maintainer_url": "https://github.com/whtisusername",
-        "size": 1542957139,
+        "size": 1606559577,
         "telegram_username": "whtisusername",
-        "url": "https://github.com/HyconOS-Releases/lavender/releases/download/v3.5/HyconOS_3.5_lavender-11.0-20210624-1348-OFFICIAL.zip",
-        "version": "sunrise"
+        "url": "https://github.com/HyconOS-Releases/lavender/releases/download/v4.0/HyconOS_4.0_lavender-11.0-20210715-0831-OFFICIAL.zip",
+        "version": "Ephemeral"
     }
 ]
