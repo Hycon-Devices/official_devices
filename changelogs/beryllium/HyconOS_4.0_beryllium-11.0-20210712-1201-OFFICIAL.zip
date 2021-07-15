@@ -1,0 +1,4 @@
+HyconOS V4.0 - 15/07/2021
+- Switch to Delta Kernel
+- Upstreamed to linux tag 4.9.275
+- Reworked powerhints (Moar poobg fps lol)

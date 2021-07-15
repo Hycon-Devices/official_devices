@@ -84,18 +84,18 @@
         "version": "Hashira"
     },
     {
-        "datetime": 1624698541,
+        "datetime": 1626091192,
         "error": false,
-        "filehash": "795a3134691b4e7934a795cd1c0f18c7",
-        "filename": "HyconOS_3.5_beryllium-11.0-20210626-0910-OFFICIAL.zip",
-        "size": 1568179114,
-        "id": "ef3e3106b93dbe27500edf65de0bbb372dab88c44d5f59f8fa1e7aec9afdcde2",
+        "filehash": "71ffee958b7dc98c256428bf8b64bc1f",
+        "filename": "HyconOS_4.0_beryllium-11.0-20210712-1201-OFFICIAL.zip",
+        "size": 1570415215,
+        "id": "d7e920d59d20e68ae2017c778c057a944343c47dd66ada4a91dede18406fa0b4",
         "forum_url": "https://forum.xda-developers.com/t/rom-official-11-hyconos-v3-0-aurora-for-poco-f1-beryllium-stable.4281253",
         "maintainer": "XtremeOrnob",
         "maintainer_url": "https://github.com/XtremeOrnob",
         "telegram_username": "XtremeOrnob",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Sunrise"
+        "version": "Ephemeral"
     },
     {
         "datetime": 1625936430,
