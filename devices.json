@@ -263,7 +263,7 @@
                 "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433"
             }
         ]
-    }
+    },
 	{
         "brand": "Nokia",
         "codename": "DRG",
@@ -275,6 +275,20 @@
                 "version_code": "eleven",
                 "version_name": "Ephemeral",
                 "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-drg.4237011/"
+            }
+        ]
+    },
+	{
+        "brand": "Nokia",
+        "codename": "DRG",
+        "name": "Nokia 6.1 (2018)",
+        "supported_versions": [
+            {
+                "maintainer_name": "Ankit Kene",
+                "maintainer_url": "https://github.com/keneankit01",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/"
             }
         ]
     }

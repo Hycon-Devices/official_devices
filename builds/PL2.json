@@ -1,0 +1,16 @@
+[
+    {
+        "datetime": 1626388525,
+        "error": false,
+        "filehash": "27643499bed489ca230a27afb0fd0732",
+        "filename": "HyconOS_4.0_PL2-11.0-20210715-2238-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
+        "id": "400f4e0bc6fdf748a9461d9284ce25a6ae7fc6f5cc71fb291611f5b5212c1fc1",
+        "maintainer": "ANKIT KENE",
+        "maintainer_url": "https://github.com/keneankit01",
+        "size": 1092653059,
+        "telegram_username": "ankitkene",
+        "url": "https://github.com/HyconOS-Releases/PL2/releases/download/V4.0/HyconOS_4.0_PL2-11.0-20210715-2238-OFFICIAL.zip",
+        "version": "Ephemeral"
+    }
+]
