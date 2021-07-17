@@ -2,7 +2,7 @@ import glob
 import json
 
 head = []
-dropped = ["wayne"]
+dropped = ["wayne", "ysl"]
 outfile = open("website_api.json", 'w')
 
 for x in glob.glob("builds/*.json"):
