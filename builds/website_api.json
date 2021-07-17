@@ -235,6 +235,20 @@
         "version": "Ephemeral"
     },
     {
+        "datetime": 1626367912,
+        "error": false,
+        "filehash": "aa1c3a5d779697dc5fa7b8fc96d2b382",
+        "filename": "HyconOS_4.0_DRG-11.0-20210715-1654-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
+        "id": "08b0f7202d427f5b237dcb473611be50070bc178e2f21802a9fd1de190993ef4",
+        "maintainer": "ANKIT KENE",
+        "maintainer_url": "https://github.com/keneankit01",
+        "size": 1083422642,
+        "telegram_username": "ankitkene",
+        "url": "https://www.pling.com/p/1544683",
+        "version": "Ephemeral"
+    },
+    {
         "datetime": 1625417571,
         "error": false,
         "filehash": "d766dc75a1a4ac440e7256ab5a79 bcOe",
@@ -247,6 +261,20 @@
         "telegram_username": "ChilledCryo",
         "url": "https://www.pling.com/p/1544683",
         "version": "Sunrise"
+    },
+    {
+        "datetime": 1626388525,
+        "error": false,
+        "filehash": "27643499bed489ca230a27afb0fd0732",
+        "filename": "HyconOS_4.0_PL2-11.0-20210715-2238-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
+        "id": "400f4e0bc6fdf748a9461d9284ce25a6ae7fc6f5cc71fb291611f5b5212c1fc1",
+        "maintainer": "ANKIT KENE",
+        "maintainer_url": "https://github.com/keneankit01",
+        "size": 1092653059,
+        "telegram_username": "ankitkene",
+        "url": "https://www.pling.com/p/1544683",
+        "version": "Ephemeral"
     },
     {
         "datetime": 1625976295,
