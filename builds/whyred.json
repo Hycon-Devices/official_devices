@@ -1,0 +1,16 @@
+[
+    {
+        "datetime": 1626678636,
+        "error": false,
+        "filehash": "868e48f73f7a0cbdc72c7689bd2d47f7",
+        "filename": "HyconOS_4.0_whyred-11.0-20210719-0713-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-whyred-11-hycon-os-v4-0-ephemeral.4306543/",
+        "id": "7e247bb25e7d1d7a64277c9270fa3b5da13a7ca887794adce7e7066b0c7f634b",
+        "maintainer": "The Santy",
+        "maintainer_url": "https://github.com/TheSanty",
+        "size": 1445227601,
+        "telegram_username": "The_Santy",
+        "url": "https://github.com/HyconOS-Releases/whyred/releases/download/v4.0/HyconOS_4.0_whyred-11.0-20210719-0713-OFFICIAL.zip",
+        "version": "Ephemeral"
+    }
+]
