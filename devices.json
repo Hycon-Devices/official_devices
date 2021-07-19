@@ -3,7 +3,7 @@
         "brand": "Xiaomi",
         "codename": "ginkgo",
         "name": "Redmi Note 8",
-        "supported_versions": [
+        "supported_versions": 
             {
                 "maintainer_name": "MADMAX and introdructor",
                 "maintainer_url": "https://github.com/madmax7896",
@@ -14,9 +14,9 @@
         ]
     },
     {
-        "brand": "Xiaomi",
+        "brand": "Xiaomi"
         "codename": "miatoll",
-        "name": "Redmi Note 9S/9Pro/9Pro Max/Poco M2Pro",
+        "name" "Redmi Note 9S/9Pro/9Pro Max/Poco M2Pro",
         "supported_versions": [
             {
                 "maintainer_name": "HaSSaN",
