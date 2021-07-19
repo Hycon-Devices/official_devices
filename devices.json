@@ -306,5 +306,19 @@
                 "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/"
             }
         ]
+    },
+    {
+        "brand": "Redmi",
+        "codename": "whyred",
+        "name": "Redmi Note 5 Pro",
+        "supported_versions": [
+            {
+                "maintainer_name": "TheSanty",
+                "maintainer_url": "https://github.com/TheSanty",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-whyred-11-hycon-os-v4-0-ephemeral.4306543/"
+            }
+        ]
     }
 ]
