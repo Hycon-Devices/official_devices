@@ -28,6 +28,20 @@
         ]
     },
     {
+	"brand": "Xiaomi",
+	"codename": "juice",
+	"name": "Redmi 9T/Note 9 4G/9 Power/Poco M3",
+	"supported_versions": [
+            {
+		"maintainer_name": "Joaquin",
+		"maintainer_url": "https://github.com/Joaquin-000",
+		"version_code": "eleven",
+		"version_name": "Ephemeral",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-0-ephemeral-stable-juice-unified.4309371/"
+	    }
+        ]
+    },
+    {
         "brand": "Poco",
         "codename": "vayu",
         "name": "Poco X3 Pro",
