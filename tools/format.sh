@@ -1,30 +1,30 @@
 #!/bin/bash
 
-PR_NUM=$(jq --raw-output .pull_request.number "${GITHUB_EVENT_PATH}")
 COMMIT_AUTHOR="$(git log -1 --pretty='%an <%ae>')"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
-REPO="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}"
 
 [[ -z "${TELEGRAM_TOKEN}" ]] && echo "No tg token!" && exit 1
+[[ -z "${GITHUB_TOKEN}" ]] && echo "No gh token!" && exit 1
+
 function sendTG() {
-    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001367433218&parse_mode=Markdown"
+    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001367433218&disable_web_page_preview=true&parse_mode=Markdown"
 }
 
 git config --global user.email "rzlamrr.dvst@protonmail.com"
 git config --global user.name "rzlamrr"
 
 if python tools/validate.py; then
-    if [[ "${PR_NUM}" != "null" ]]; then
-        sendTG "*PR ${PR_NUM} can be merged.* [PR Link](${REPO}/pull/${PR_NUM})"
+    if [[ -n "${CIRCLE_PR_NUMBER}" ]]; then
+        sendTG "*PR #${CIRCLE_PR_NUMBER} can be merged.* [PR Link](${CIRCLE_PULL_REQUEST})"
         exit 0
     fi
 else
-    if [[ "${PR_NUM}" != "null" ]]; then
-        sendTG "*PR #${PR_NUM} is failing. Maintainer is requested to check it!*
+    if [[ -n "${CIRCLE_PR_NUMBER}" ]]; then
+        sendTG "*PR #${CIRCLE_PR_NUMBER} is failing. Maintainer is requested to check it!*
 Failed File:
 \`$(cat brokenjson.txt)\`
 
-[PR Link](${REPO}/pull/${PR_NUM})"
+[PR Link](${CIRCLE_PULL_REQUEST})"
         exit 1
     else
         sendTG "*Someone have merged broken json! Please take a look ASAP!*
@@ -33,8 +33,6 @@ Failed File:
     exit 1
     fi
 fi
-
-rm -f brokenjson.txt
 
 python tools/merge.py
 
@@ -46,9 +44,18 @@ do
     rm -rf tmp
 done
 
-if [[ ! "${COMMIT_MESSAGE}" =~ "[Hycon-CI]" ]]; then
-    git reset HEAD~1
-    git add .
-    git commit -m "[Hycon-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff || true
-    sendTG "JSON Linted and Force Pushed!"
+GIT_CHECK="$(git status | grep "json")"
+
+if [[ ! "${COMMIT_MESSAGE}" =~ "[Hycon-CI]" ]] && [[ -n "$GIT_CHECK" ]]; then
+    if [[ "${COMMIT_MESSAGE}" =~ "Merge pull request" ]]; then
+        sendTG "JSON formatted, but merge commit has been found!
+*Can't format commit message!*"
+    else
+        git reset HEAD~1
+        git add .
+        git commit -m "[Hycon-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
+        git remote set-url origin "https://rzlamrr:${GITHUB_TOKEN}@github.com/Hycon-Devices/official_devices"
+        git push origin ${CIRCLE_BRANCH} -f
+        sendTG "JSON Linted and Force Pushed!"
+    fi
 fi

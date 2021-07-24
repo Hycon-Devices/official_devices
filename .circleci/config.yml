@@ -1,0 +1,13 @@
+---
+version: 2.1
+setup: true
+orbs:
+  path-filtering: circleci/path-filtering@0.0.2
+workflows:
+  run:
+    jobs:
+      - path-filtering/filter:
+          base-revision: master
+          config-path: .circleci/validator.yml
+          mapping: |
+            builds/*.json validate true

@@ -1,0 +1,30 @@
+---
+version: 2.1
+
+jobs:
+  validator:
+   docker:
+    - image: cimg/python:3.6.10
+   steps:
+    - when:
+        condition: << pipeline.parameters.validate >>
+        steps:
+          - checkout
+          - run: bash tools/format.sh
+    - unless:
+        condition: << pipeline.parameters.validate >>
+        steps:
+          - run: echo "Skipped"
+
+parameters:
+  validate:
+    type: boolean
+    default: false
+
+workflows:
+  version: 2
+  validation:
+    jobs:
+      - validator:
+          context:
+            - token
