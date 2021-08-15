@@ -1,0 +1,3 @@
+Device changes:
+# v4.5 Elegant
+- Misc Changes
