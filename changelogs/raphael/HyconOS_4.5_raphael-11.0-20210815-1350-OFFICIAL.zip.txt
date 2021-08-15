@@ -1,0 +1,8 @@
+Device Changelog:
+# v4.5 Elegant
+-Updated graphics blobs from LA.UM.9.1.r1-10200-SMxxx0.0
+-Switched Skia rendering backend to OpenGL
+-Disabled kernel page table isolation
+-Used pixel thermal hal
+-Whitelist ANX for size stream skip
+-Upstreamed Kernel to 4.14.243
