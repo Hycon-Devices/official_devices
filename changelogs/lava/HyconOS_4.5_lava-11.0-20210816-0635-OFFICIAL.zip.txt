@@ -1,0 +1,12 @@
+• OSS R Vendor Build
+• Clean Flash Mandatory!(unless you're already on OSS R Vendor)
+• Based Kernel Included
+• AnxCamera Included
+• Safetynet Passes by default
+• August security patch
+• SELinux Enforcing
+• Minimum Brightness Decreased
+• Vibration Fixed
+• Blur Enabled, But Disabled By Default
+• USB Tethering Fixed
+• Follow These Steps Carefully: https://telegra.ph/Flash-Steps-For-Redmi-Note-9-Redmi-9-Poco-M2-OSS-R-Vendor-08-1
