@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1624686426,
+        "datetime": 1629086465,
         "error": false,
-        "filehash": "1754511aec5f5d925557da16fd01be97",
-        "filename": "HyconOS_3.5_merlin-11.0-20210626-0551-OFFICIAL.zip",
-        "id": "cfd29bae6b18e6c75a1a64929a79c7ada039edfda548a93bd980fe184e51a91c",
-        "size": 1900677833,
-        "forum_url": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-note-9.4297331/",
-        "maintainer": "Box_Boi",
+        "filehash": "5392c40cca8bc19fa8b05522e8d2d9f6",
+        "filename": "HyconOS_4.5_merlin-11.0-20210816-0403-OFFICIAL.zip",
+        "id": "d8888b3f669bc24bf77b9f8e7d37abd8cf35537b4008de45d6eeb65e03c11c81",
+        "size": 1853104865,
+        "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-oss-r-vendor-for-redmi-note-9-merlin-merlinnfc.4320439/",
+        "maintainer": "Boi_Box",
         "maintainer_url": "https://github.com/Box-boi",
-        "telegram_username": "Box_Boi",
-        "url": "https://github.com/HyconOS-Releases/merlin/releases/download/V3.5/HyconOS_3.5_merlin-11.0-20210626-0551-OFFICIAL.zip",
-        "version": "Sunrise"
+        "telegram_username": "Boi_Box",
+        "url": "https://github.com/HyconOS-Releases/merlin/releases/download/v4.5/HyconOS_4.5_merlin-11.0-20210816-0403-OFFICIAL.zip",
+        "version": "Elegant"
     }
 ]
