@@ -334,5 +334,19 @@
                 "xda_thread": "https://forum.xda-developers.com/t/rom-official-whyred-11-hycon-os-v4-0-ephemeral.4306543/"
             }
         ]
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "lemonades",
+        "name": "OnePlus 9R",
+        "supported_versions": [
+            {
+                "maintainer_name": "TheTablaster",
+                "maintainer_url": "https://github.com/Blaster4385",
+                "version_code": "eleven",
+                "version_name": "Elegant",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-hyconos-11-lemonades.4320511/"
+            }
+        ]
     }
 ]

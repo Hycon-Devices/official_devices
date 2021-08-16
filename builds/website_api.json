@@ -333,5 +333,20 @@
         "telegram_username": "V3NK4135H",
         "url": "https://www.pling.com/p/1544683",
         "version": "Ephemeral"
+    },
+    {
+        "datetime": 1629108460,
+        "error": false,
+        "filehash": "455d561dbef156733f2674fc3388a61a",
+        "filename": "HyconOS_4.5_lemonades-11.0-20210816-1008-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-hyconos-11-lemonades.4320511/",
+        "id": "18f80a26311b2e4dcf8edff0aff4f811d90621b042249abf3655e8a5d0e97dfa",
+        "maintainer": "TheTablaster",
+        "maintainer_url": "https://github.com/Blaster4385",
+        "size": 1658494376,
+        "telegram_username": "V3NK4135H",
+        "url": "https://www.pling.com/p/1544683",
+        "version": "Elegant"
+        
     }
 ]
