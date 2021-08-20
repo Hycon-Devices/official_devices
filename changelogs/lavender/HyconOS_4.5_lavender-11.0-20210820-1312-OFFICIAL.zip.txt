@@ -1,0 +1,37 @@
+# Changelog for Xiaomi Redmi Note 7/7S (Lavender)
+
+## HyconOS v4.5 - 20/08/2021 Device Changelog
+- Merged August Security Patch
+- Gapps Included
+- Fixed UI lags and Improved System Stablity
+- Enforcing Build
+- Updated XiaomiParts
+- Fixed Xiaomi Doze and Mi Sound Enhancer
+- Fixed Night Light
+- Fixed Battery Overlays
+- Added Unlimited Google Photos Storage
+
+## v4.5 | ELEGANT (15-08-2021) Source Changelog
+*Merged August AOSP Security Patch
+* Update PixelPropsUtil to August FP
+* Added Preferred Refresh Rate 
+* Added Toggle for QS Media Player background with artwork
+* Added Reboot Tile
+* Added new Font Engine from CorvusOS
+* Added Numerous amount of Fonts styles
+* Added dynamic VoLTE & VoWiFi icons
+* Added VoLTE/VoWIFI icons from Vivo X60 Pro
+* Added Brightness Sliders
+* Added optional OOS QS Clock
+* Added support fonts from Substratum theme packages
+* Added button to upload crash information to katbin
+* Added Machine Learning Gestures
+* Updated Default Wallpaper
+* Improve FPS Info output formatting and performance
+* Update Now Playing database as of August 4, 2021
+* Removed dead code from Telephony which uses wakelock
+* Grant MediaProvider access to /mnt/media_rw & /mnt/pass_through
+* VibratorService: update constant values for OnePlus HAL
+*Added new ShapeshitOS lockscreen clock
+*Fixed lag while expanding qs
+*Miscellaneous improvements
