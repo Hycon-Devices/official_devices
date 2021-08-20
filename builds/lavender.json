@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1626337901,
+        "datetime": 1629465013,
         "error": false,
-        "filehash": "7c0abff6a09ab56eb7b650e08f60ee7d",
-        "filename": "HyconOS_4.0_lavender-11.0-20210715-0831-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/lavender-rom-official-11-hyconos-v4-0-ephemeral.4306055/",
-        "id": "ff254ae39fa16b6eeddb6670b5af08622e0bf301c43216e981a2135d070ffba6",
+        "filehash": "e61dd041e7738374cb0c2851388f3d7b",
+        "filename": "HyconOS_4.5_lavender-11.0-20210820-1312-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-lavender-11-official-hyconos-4-5-elegant.4322131/",
+        "id": "829b842afda6b4b43d7398612619c4e52c89210d379da7196d6ea098c696b3fb",
         "maintainer": "whtisusername",
         "maintainer_url": "https://github.com/whtisusername",
-        "size": 1606559577,
+        "size": 1614389600,
         "telegram_username": "whtisusername",
-        "url": "https://github.com/HyconOS-Releases/lavender/releases/download/v4.0/HyconOS_4.0_lavender-11.0-20210715-0831-OFFICIAL.zip",
-        "version": "Ephemeral"
+        "url": "https://github.com/HyconOS-Releases/lavender/releases/download/v4.5/HyconOS_4.5_lavender-11.0-20210820-1312-OFFICIAL.zip",
+        "version": "Elegant"
     }
 ]
