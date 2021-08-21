@@ -131,10 +131,10 @@
         "name": "Realme 6 Series",
         "supported_versions": [
             {
-                "maintainer_name": "SriBalaji & Arneesh",
-                "maintainer_url": "https://gitlab.com/sribalaji",
+                "maintainer_name": "SriBalaji",
+                "maintainer_url": "https://github.com/iamthecloverly",
                 "version_code": "eleven",
-                "version_name": "Ephemeral",
+                "version_name": "Elegant",
                 "xda_thread": "https://forum.xda-developers.com/t/rom-11-hycon-os-v4-0-ephemeral-rmx2001-realme-6-series-g90t-series-official.42980293"
             }
         ]
