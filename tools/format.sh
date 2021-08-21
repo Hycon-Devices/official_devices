@@ -1,7 +1,16 @@
 #!/bin/bash
 
+git config --global user.email "HyconBot@gmail.com"
+git config --global user.name "HyconBot"
+
 COMMIT_AUTHOR="$(git log -1 --pretty='%an <%ae>')"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
+
+git reset HEAD~1
+if [[ -z "$(git status | grep json)" ]]; then
+    echo "Last commit has no json changes, Skipped!"
+    exit 0
+fi
 
 [[ -z "${TELEGRAM_TOKEN}" ]] && echo "No tg token!" && exit 1
 [[ -z "${GITHUB_TOKEN}" ]] && echo "No gh token!" && exit 1
@@ -9,9 +18,6 @@ COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
 function sendTG() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001367433218&disable_web_page_preview=true&parse_mode=Markdown"
 }
-
-git config --global user.email "rzlamrr.dvst@protonmail.com"
-git config --global user.name "rzlamrr"
 
 if python tools/validate.py; then
     if [[ -n "${CIRCLE_PR_NUMBER}" ]]; then
@@ -51,10 +57,9 @@ if [[ ! "${COMMIT_MESSAGE}" =~ "[Hycon-CI]" ]] && [[ -n "$GIT_CHECK" ]]; then
         sendTG "JSON formatted, but merge commit has been found!
 *Can't format commit message!*"
     else
-        git reset HEAD~1
         git add .
         git commit -m "[Hycon-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
-        git remote set-url origin "https://rzlamrr:${GITHUB_TOKEN}@github.com/Hycon-Devices/official_devices"
+        git remote set-url origin "https://HyconBot:${GITHUB_TOKEN}@github.com/Hycon-Devices/official_devices"
         git push origin ${CIRCLE_BRANCH} -f
         sendTG "JSON Linted and Force Pushed!"
     fi
