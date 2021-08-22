@@ -1,0 +1,34 @@
+Device Changelog:
+
+• Merged August ASB (android-11.0.0_r40) .
+• Improved status bar padding
+• Added Realme Dirac support .
+• Enhanced Stability and overall performance of device.
+• Misc Improvements
+• Shipped with N.E.O.L.I.T-V2 kernel.
+• Added fps: indicator in FPS overaly.
+
+# v4.5 | ELEGANT (15-08-2021) Source Changelog
+*Merged August AOSP Security Patch
+* Update PixelPropsUtil to August FP
+* Added Preferred Refresh Rate 
+* Added Toggle for QS Media Player background with artwork
+* Added Reboot Tile
+* Added new Font Engine from CorvusOS
+* Added Numerous amount of Fonts styles
+* Added dynamic VoLTE & VoWiFi icons
+* Added VoLTE/VoWIFI icons from Vivo X60 Pro
+* Added Brightness Sliders
+* Added optional OOS QS Clock
+* Added support fonts from Substratum theme packages
+* Added button to upload crash information to katbin
+* Added Machine Learning Gestures
+* Updated Default Wallpaper
+* Improve FPS Info output formatting and performance
+* Update Now Playing database as of August 4, 2021
+* Removed dead code from Telephony which uses wakelock
+* Grant MediaProvider access to /mnt/media_rw & /mnt/pass_through
+* VibratorService: update constant values for OnePlus HAL
+*Added new ShapeshitOS lockscreen clock
+*Fixed lag while expanding qs
+*Miscellaneous improvements
