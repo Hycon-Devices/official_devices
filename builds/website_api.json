@@ -279,6 +279,20 @@
         "version": "Ephemeral"
     },
     {
+        "datetime": 1629386008,
+        "error": false,
+        "filehash": "d96b072074be140133c352d8e416ec33",
+        "filename": "HyconOS_4.5_tulip-11.0-20210819-1513-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-tulip-hyconos-16-08-2021.4320241/",
+        "id": "c348e2525ab1609c4407be6f3ebad5bff3feef4ed92d03282a0f0bc2e9ddce2b",
+        "maintainer": "Rabin",
+        "maintainer_url": "https://github.com/rabin-tech",
+        "size": 1490771243,
+        "telegram_username": "https://t.me/professor36",
+        "url": "https://www.pling.com/p/1544683",
+        "version": "Elegant"
+    },
+    {
         "datetime": 1621891034,
         "error": false,
         "filehash": "aa94967abb877135452bb1e47a42952d",
