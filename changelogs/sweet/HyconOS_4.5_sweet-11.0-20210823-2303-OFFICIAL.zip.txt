@@ -1,0 +1,39 @@
+Device changes:
+# v4.5 Elegant
+- Merge Aug SB
+- improve stability of the ROM
+- Fix Fix ui laggy in previous version
+- source changes
+- use redfin FP
+- you can now save ur photos in google with unlimited sotrage 
+- Aug security patch 
+- Rom is now Stable and so smooth even u enable blur
+- fixed died pixels around the front camera now its like miui
+- add blur option but disable by defualt
+- improve haptics vibrate
+- cts passed by defualt
+- redesign the refresh rate section
+-----------------------------
+-Merged August AOSP Security Patch
+-Update PixelPropsUtil to August FP
+-Added Preferred Refresh Rate 
+-Added Toggle for QS Media Player background with artwork
+-Added Reboot Tile
+-Added new Font Engine from CorvusOS
+-Added Numerous amount of Fonts styles
+-Added dynamic VoLTE & VoWiFi icons
+-Added VoLTE/VoWIFI icons from Vivo X60 Pro
+-Added Brightness Sliders
+-Added optional OOS QS Clock
+-Added support fonts from Substratum theme packages
+-Added button to upload crash information to katbin
+-Added Machine Learning Gestures
+-Updated Default Wallpaper
+-Improve FPS Info outputformatting and performance
+-Update Now Playing database as of August 4, 2021
+-Removed dead code from Telephony which uses wakelock
+-Grant MediaProvider access to /mnt/media_rw & /mnt/pass_through
+-VibratorService: update constant values for OnePlus HAL
+-Added new ShapeshitOS lockscreen clock
+-Fixed lag while expanding qs
+-Miscellaneous improvements
