@@ -5,12 +5,15 @@ git config --global user.name "HyconBot"
 
 COMMIT_AUTHOR="$(git log -1 --pretty='%an <%ae>')"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
+COMMIT_HASH="$(git log -1 --pretty=%h)"
 
 git reset HEAD~1
 if [[ -z "$(git status | grep json)" ]]; then
     echo "Last commit has no json changes, Skipped!"
     exit 0
 fi
+
+git reset ${COMMIT_HASH}
 
 [[ -z "${TELEGRAM_TOKEN}" ]] && echo "No tg token!" && exit 1
 [[ -z "${GITHUB_TOKEN}" ]] && echo "No gh token!" && exit 1
