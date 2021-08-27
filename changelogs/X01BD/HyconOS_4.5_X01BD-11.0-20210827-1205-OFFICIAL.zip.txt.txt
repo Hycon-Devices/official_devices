@@ -1,0 +1,4 @@
+Device Changelog:
+# v4.5 Elegant
+-Initial Build
+-Kernel upsteramed to 4.4.279
