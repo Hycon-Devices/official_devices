@@ -10,6 +10,7 @@ os.system("rm -f builds/website_api.json")
 for x in glob.glob("builds/*.json"):
     with open(x, 'rb') as file:
         data = json.load(file)
+        print(x)
         for item in data:
             item['url'] = "https://www.pling.com/p/1544683"
             for d in dropped:
