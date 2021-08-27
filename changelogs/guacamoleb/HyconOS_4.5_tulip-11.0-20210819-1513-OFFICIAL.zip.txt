@@ -1,0 +1,5 @@
+Device changes:
+# v4.5 Elegant
+- Initial Build
+- Screen Off FOD completely fixed
+- Dora Kernel v2.1 by default

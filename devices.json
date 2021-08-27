@@ -362,5 +362,19 @@
                 "xda_thread": "https://forum.xda-developers.com/t/rom-official-hyconos-11-lemonades.4320511/"
             }
         ]
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "guacamoleb",
+        "name": "OnePlus 7",
+        "supported_versions": [
+            {
+                "maintainer_name": "Shubham Pawar",
+                "maintainer_url": "https://github.com/skpawar1305",
+                "version_code": "eleven",
+                "version_name": "Elegant",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-hyconos-op7-guacamoleb-official.4323255/"
+            }
+        ]
     }
 ]
