@@ -364,6 +364,20 @@
         ]
     },
     {
+        "brand": "Asus",
+        "codename": "X01BD",
+        "name": "Asus Max Pro M2",
+        "supported_versions": [
+            {
+                "maintainer_name": "Puneet Gautam(jartinup)",
+                "maintainer_url": "https://github.com/kryptoniteX",
+                "version_code": "eleven",
+                "version_name": "Ephemeral",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-0-ephemeral-stable-x01ad.4325119/"
+            }
+        ]
+    },
+    {
         "brand": "OnePlus",
         "codename": "guacamoleb",
         "name": "OnePlus 7",
