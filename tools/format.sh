@@ -43,7 +43,12 @@ Failed File:
     fi
 fi
 
-python tools/merge.py
+if python tools/merge.py; then
+    echo "Merged!"
+else
+    echo "Merge failed!"
+    exit 1
+fi
 
 for i in $(find . -type f -iname '*.json')
 do
@@ -60,6 +65,7 @@ if [[ ! "${COMMIT_MESSAGE}" =~ "[Hycon-CI]" ]] && [[ -n "$GIT_CHECK" ]]; then
         sendTG "JSON formatted, but merge commit has been found!
 *Can't format commit message!*"
     else
+        git reset HEAD~1
         git add .
         git commit -m "[Hycon-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
         git remote set-url origin "https://HyconBot:${GITHUB_TOKEN}@github.com/Hycon-Devices/official_devices"
