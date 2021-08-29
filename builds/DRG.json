@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1626367912,
+        "datetime": 1630181310,
         "error": false,
-        "filehash": "aa1c3a5d779697dc5fa7b8fc96d2b382",
-        "filename": "HyconOS_4.0_DRG-11.0-20210715-1654-OFFICIAL.zip",
+        "filehash": "4224f8e9581d179d53cc864fe0a1da47",
+        "filename": "HyconOS_4.5_DRG-11.0-20210828-2011-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
-        "id": "08b0f7202d427f5b237dcb473611be50070bc178e2f21802a9fd1de190993ef4",
+        "id": "d264cae3183d1d59067479ffe5a931bdff2ed3c451dedcbd1ad1b0a21ec17dcd",
         "maintainer": "ANKIT KENE",
         "maintainer_url": "https://github.com/keneankit01",
-        "size": 1083422642,
+        "size": 1226701204,
         "telegram_username": "ankitkene",
-        "url": "https://github.com/HyconOS-Releases/DRG/releases/download/V4.0/HyconOS_4.0_DRG-11.0-20210715-1654-OFFICIAL.zip",
+        "url": "https://github.com/HyconOS-Releases/DRG/releases/",
         "version": "Ephemeral"
     }
 ]
