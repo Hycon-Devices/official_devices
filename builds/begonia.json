@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1626146412,
+        "datetime": 1630159680,
         "error": false,
-        "filehash": "2b77563d6768e5d47720c44a11e817a4",
-        "filename": "HyconOS_4.0_begonia-11.0-20210713-0320-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v4-0-ephemeral.4253903/",
-        "id": "6cda11041cd18aea9930a0d622b1bcb485bd0c8367d3bf86e433b4a331144155",
+        "filehash": "380682bd628b6ac234b3833a49e831e3",
+        "filename": "HyconOS_4.5_begonia-11.0-20210828-1410-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v4-5-elegant.4253903/",
+        "id": "e0af51ac5d753bbffa7adf7d62518dcb6b0e055ca22de58e5f1f53e46522b963",
         "maintainer": "abhixv",
         "maintainer_url": "https://github.com/abhixv",
-        "size": 1685872726,
+        "size": 1688202492,
         "telegram_username": "https://t.me/abhixv",
-        "url": "https://github.com/HyconOS-Releases/Begonia/releases/download/V4.0/HyconOS_4.0_begonia-11.0-20210713-0320-OFFICIAL.zip",
-        "version": "Ephemeral"
+        "url": "https://github.com/HyconOS-Releases/Begonia/releases/download/V4.5/HyconOS_4.5_begonia-11.0-20210828-1410-OFFICIAL.zip",
+        "version": "Elegant"
     }
 ]
