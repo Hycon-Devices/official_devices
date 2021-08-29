@@ -43,12 +43,18 @@ Failed File:
     fi
 fi
 
+rm -rf brokenjson.txt
+
 if python tools/merge.py; then
     echo "Merged!"
 else
     echo "Merge failed!"
+    sendTG "*Can't merge json!!*
+\`$(cat brokenjson.txt)\`"
     exit 1
 fi
+
+rm -rf brokenjson.txt
 
 for i in $(find . -type f -iname '*.json')
 do
