@@ -3,7 +3,7 @@ import json
 import os
 
 head = []
-dropped = ["wayne", "ysl"]
+dropped = ["wayne", "ysl", "kebab"]
 
 os.system("rm -f builds/website_api.json brokenjson.txt")
 
