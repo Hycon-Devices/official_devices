@@ -1,0 +1,13 @@
+**Device changes:
+- Sept. Security Patch
+- Add Miui Camera
+- Switch to Extended EAS
+- Switch to Pixel libperfmgr Power HAL
+- Update Some Camera Props
+- Disable VSync for CPU rendered apps
+- Enable fluence voice recording
+- XiaomiParts: Add Clear Speaker
+- XiaomiParts: Add Lottie animation for header & Doze
+- Miscellaneous Improvement & fixes
+- Safety Net passes by default
+----------------------------------
