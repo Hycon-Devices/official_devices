@@ -1,0 +1,14 @@
+Device changes:
+
+# v4.5.1 Eternal
+- Include OOS Camera
+- Update kernel to GCC compiled Dora labs v196
+- Fix Background Blur toggle
+- Add RGB color controller in DeviceSettings
+- Skipped fod color modes restoration (hopefully DC dimming won't turn off automatically now)
+- CTS passes by default
+
+# v4.5 Elegant
+- Initial Build
+- Screen Off FOD completely fixed
+- Dora Kernel v2.1 by default
