@@ -351,14 +351,14 @@
     },
     {
         "brand": "OnePlus",
-        "codename": "lemonades",
-        "name": "OnePlus 9R",
+        "codename": "lemonkebab",
+        "name": "OnePlus 8T/9R",
         "supported_versions": [
             {
                 "maintainer_name": "TheTablaster",
                 "maintainer_url": "https://github.com/Blaster4385",
                 "version_code": "eleven",
-                "version_name": "Elegant",
+                "version_name": "Eternal",
                 "xda_thread": "https://forum.xda-developers.com/t/rom-official-hyconos-11-lemonades.4320511/"
             }
         ]

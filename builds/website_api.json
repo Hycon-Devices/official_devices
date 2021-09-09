@@ -69,18 +69,18 @@
         "version": "Elegant"
     },
     {
-        "datetime": 1630065692,
+        "datetime": 1631167415,
         "error": false,
-        "filehash": "977ee2280488e0fd310a486467644b87",
-        "filename": "HyconOS_4.5_X01BD-11.0-20210827-1205-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-0-ephemeral-stable-x01ad.4325119/",
-        "id": "733b4725f618cb9f4c75b649b3bfda7ede7ce4862e68bcc81e7a1460389215b9",
+        "filehash": "9402478c5f3b2e084fa9caf26d206c6a",
+        "filename": "HHyconOS_4.5.1_X01BD-11.0-20210909-0605-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-5-1-eternal-stable-x01ad.4325119/#post-85554917",
+        "id": "25bfd32009c5b36c9aa2320af45623ca8323567334e805c42824d06a2232713d",
         "maintainer": "Puneet Gautam(jartinup)",
         "maintainer_url": "https://github.com/kyrptoniteX",
-        "size": 1419456254,
+        "size": 11419664459,
         "telegram_username": "https://t.me/jartinup",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Elegant"
+        "version": "Eternal"
     },
     {
         "datetime": 1630159680,
@@ -139,15 +139,15 @@
         "version": "ELEGANT"
     },
     {
-        "datetime": 1630015675,
+        "datetime": 1631172181,
+        "filehash": "0889dc8990a3871383cfcacffe2b9fef",
+        "filename": "HyconOS_4.5.1_guacamoleb-11.0-20210909-0723-OFFICIAL.zip",
+        "id": "c899c7a389c8a4392f1167e213457ee73f4c300fbbefef0f63f8be5a9eadebce",
+        "size": 1536050844,
         "error": false,
-        "filehash": "aefabc68b91689a1640b074d978daabd",
-        "filename": "HyconOS_4.5_guacamoleb-11.0-20210826-2207-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-op7-guacamoleb-official.4323255/",
-        "id": "aeae6bfee0da71bd8dcde13a745041663b601b4c45c86b1010da432c92636238",
         "maintainer": "Shubham Pawar",
         "maintainer_url": "https://github.com/skpawar1305",
-        "size": 1403164462,
         "telegram_username": "https://t.me/skpawar1305",
         "url": "https://www.pling.com/p/1544683",
         "version": "Elegant"
@@ -223,18 +223,18 @@
         "version": "Elegant"
     },
     {
-        "datetime": 1629108460,
+        "datetime": 1631185788,
         "error": false,
-        "filehash": "455d561dbef156733f2674fc3388a61a",
-        "filename": "HyconOS_4.5_lemonades-11.0-20210816-1008-OFFICIAL.zip",
+        "filehash": "df97adbe7f0e53cbbebae834d23f09fa",
+        "filename": "HyconOS_4.5.1_lemonkebab-11.0-20210909-1110-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-official-hyconos-11-lemonades.4320511/",
-        "id": "18f80a26311b2e4dcf8edff0aff4f811d90621b042249abf3655e8a5d0e97dfa",
+        "id": "8835cbfd67a8e88baccd370a0628a1060e12b68f5d37a13c07fc42f125f2eaf5",
         "maintainer": "TheTablaster",
         "maintainer_url": "https://github.com/Blaster4385",
         "size": 1658494376,
         "telegram_username": "V3NK4135H",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Elegant"
+        "version": "Eternal, Dropped"
     },
     {
         "datetime": 1629086465,
