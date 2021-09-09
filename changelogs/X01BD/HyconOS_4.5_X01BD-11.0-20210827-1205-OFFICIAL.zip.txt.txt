@@ -1,4 +1,8 @@
 Device Changelog:
+# v4.5.1 Eternal
+-Update to redfin september fp
+-some minor fixes
+
 # v4.5 Elegant
 -Initial Build
 -Kernel upsteramed to 4.4.279
