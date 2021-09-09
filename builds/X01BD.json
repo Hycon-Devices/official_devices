@@ -1,14 +1,14 @@
 {
-   "datetime": 1630065692,
+   "datetime": 1631167415,
    "error": false,
-   "filehash": "977ee2280488e0fd310a486467644b87",
-   "filename": "HyconOS_4.5_X01BD-11.0-20210827-1205-OFFICIAL.zip",
+   "filehash": "9402478c5f3b2e084fa9caf26d206c6a",
+   "filename": "HyconOS_4.5.1_X01BD-11.0-20210909-0605-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-0-ephemeral-stable-x01ad.4325119/",
-   "id": "733b4725f618cb9f4c75b649b3bfda7ede7ce4862e68bcc81e7a1460389215b9",
+   "id": "25bfd32009c5b36c9aa2320af45623ca8323567334e805c42824d06a2232713d",
    "maintainer": "Puneet Gautam(jartinup)",
    "maintainer_url": "https://github.com/kyrptoniteX",
-   "size": 1419456254,
+   "size": 1419664459,
    "telegram_username": "https://t.me/jartinup",
-   "url": "https://github.com/HyconOS-Releases/X01BD/releases/download/V4.5/HyconOS_4.5_X01BD-11.0-20210827-1205-OFFICIAL.zip",
-   "version": "Elegant"
+   "url": "https://github.com/HyconOS-Releases/X01BD/releases/download/V4.5.1/HyconOS_4.5.1_X01BD-11.0-20210909-0605-OFFICIAL.zip",
+   "version": "Eternal"
 }
