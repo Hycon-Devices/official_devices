@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1630015675,
+        "datetime": 1631172181,
+        "filehash": "0889dc8990a3871383cfcacffe2b9fef",
+        "filename": "HyconOS_4.5.1_guacamoleb-11.0-20210909-0723-OFFICIAL.zip",
+        "id": "c899c7a389c8a4392f1167e213457ee73f4c300fbbefef0f63f8be5a9eadebce",
+        "size": 1536050844,
         "error": false,
-        "filehash": "aefabc68b91689a1640b074d978daabd",
-        "filename": "HyconOS_4.5_guacamoleb-11.0-20210826-2207-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-op7-guacamoleb-official.4323255/",
-        "id": "aeae6bfee0da71bd8dcde13a745041663b601b4c45c86b1010da432c92636238",
         "maintainer": "Shubham Pawar",
         "maintainer_url": "https://github.com/skpawar1305",
-        "size": 1403164462,
         "telegram_username": "https://t.me/skpawar1305",
-        "url": "https://github.com/HyconOS-Releases/skpawar1305/releases/download/v4.5/HyconOS_4.5_tulip-11.0-20210819-1513-OFFICIAL.zip",
+        "url": "https://github.com/HyconOS-Releases/skpawar1305/releases/download/v4.5/HyconOS_4.5.1_guacamoleb-11.0-20210909-0723-OFFICIAL",
         "version": "Elegant"
     }
 ]
