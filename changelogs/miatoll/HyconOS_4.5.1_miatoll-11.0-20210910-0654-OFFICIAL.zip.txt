@@ -1,0 +1,7 @@
+**Device changes:
+
+- Update to Redfin's Sep FP & Desc
+- Lightning kernel by default
+- Removed L1 hacks
+- Improve Fingerprint unlocking speed
+- CameraGo by default
