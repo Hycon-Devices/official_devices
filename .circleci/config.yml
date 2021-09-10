@@ -8,11 +8,29 @@ jobs:
     steps:
       - checkout
       - run: bash tools/format.sh
+  scheduled:
+    docker:
+      - image: cimg/python:3.9.6
+    steps:
+      - checkout
+      - run: bash tools/schedule.sh
 
 workflows:
   version: 2
   validation:
     jobs:
       - validator:
+          context:
+            - token
+  schedule:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - scheduled:
           context:
             - token
