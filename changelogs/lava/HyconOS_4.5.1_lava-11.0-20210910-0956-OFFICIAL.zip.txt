@@ -1,0 +1,8 @@
+• For Dialer Fix Refer To This Guide: https://telegra.ph/AOSP-Dialer-Fix-For-Redmi-Note-9--Redmi-9--Poco-M2-09-10
+• September Security Patch
+• SafetyNet Passes By Default
+• Gapps Debloated
+• Blur Enabled, But Disabled By Default
+• If SystemUI Crashes, Fastboot Flash MIUI Then CleanFlash Rom
+• ANXCamera Removed, Added gcamgo
+• Follow These Steps Carefully: https://telegra.ph/Flash-Steps-For-Redmi-Note-9-Redmi-9-Poco-M2-OSS-R-Vendor-08-16

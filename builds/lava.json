@@ -1,16 +1,16 @@
 [
     {
-        "datetime": 1624689613,
+        "datetime": 1631267586,
         "error": false,
-        "filehash": "c50799cc1a97288c46af1691da131dd2",
-        "filename": "HyconOS_3.5_lava-11.0-20210626-0645-OFFICIAL.zip",
-        "id": "6fff08917279004249082c537a26995d160a9e578f73b568aeaa75aa6360de0f",
-        "size": 1880742663,
+        "filehash": "3b4f0fbe4876bfdd9e7b9b79423457db",
+        "filename": "HyconOS_4.5.1_lava-11.0-20210910-0956-OFFICIAL.zip",
+        "id": "d347f3e0e992e52f589cd2c0003c79c164854c985b61435b39536cc0bc735baa",
+        "size": 1413966255,
         "forum_url": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-9-poco-m2.4297333/",
-        "maintainer": "Box_Boi",
+        "maintainer": "Boi_Box",
         "maintainer_url": "https://github.com/Box-boi",
-        "telegram_username": "Box_Boi",
-        "url": "https://github.com/HyconOS-Releases/lava/releases/download/V3.5/HyconOS_3.5_lava-11.0-20210626-0645-OFFICIAL.zip",
-        "version": "Sunrise"
+        "telegram_username": "Boi_Box",
+        "url": "https://github.com/HyconOS-Releases/lava/releases/download/v4.5.1/HyconOS_4.5.1_lava-11.0-20210910-0956-OFFICIAL.zip",
+        "version": "Eternal"
     }
 ]
