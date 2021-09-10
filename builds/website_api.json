@@ -195,18 +195,18 @@
         "version": "Ephemeral, Dropped"
     },
     {
-        "datetime": 1624689613,
+        "datetime": 1631267586,
         "error": false,
-        "filehash": "c50799cc1a97288c46af1691da131dd2",
-        "filename": "HyconOS_3.5_lava-11.0-20210626-0645-OFFICIAL.zip",
-        "id": "6fff08917279004249082c537a26995d160a9e578f73b568aeaa75aa6360de0f",
-        "size": 1880742663,
+        "filehash": "3b4f0fbe4876bfdd9e7b9b79423457db",
+        "filename": "HyconOS_4.5.1_lava-11.0-20210910-0956-OFFICIAL.zip",
+        "id": "d347f3e0e992e52f589cd2c0003c79c164854c985b61435b39536cc0bc735baa",
+        "size": 1413966255,
         "forum_url": "https://forum.xda-developers.com/t/rom-oss-hyconos-for-redmi-9-poco-m2.4297333/",
-        "maintainer": "Box_Boi",
+        "maintainer": "Boi_Box",
         "maintainer_url": "https://github.com/Box-boi",
-        "telegram_username": "Box_Boi",
+        "telegram_username": "Boi_Box",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Sunrise"
+        "version": "Eternal"
     },
     {
         "datetime": 1629465013,
@@ -237,18 +237,18 @@
         "version": "Eternal, Dropped"
     },
     {
-        "datetime": 1629086465,
+        "datetime": 1631263087,
         "error": false,
-        "filehash": "5392c40cca8bc19fa8b05522e8d2d9f6",
-        "filename": "HyconOS_4.5_merlin-11.0-20210816-0403-OFFICIAL.zip",
-        "id": "d8888b3f669bc24bf77b9f8e7d37abd8cf35537b4008de45d6eeb65e03c11c81",
-        "size": 1853104865,
+        "filehash": "4ad7c08ce8d848fb3f6bf19f6f6c2262",
+        "filename": "HyconOS_4.5.1_merlin-11.0-20210910-0841-OFFICIAL.zip",
+        "id": "3c06ecf719759e2002eabf302e4ed15fcb7f3d647042990a4d14458aa05cd624",
+        "size": 1433182494,
         "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-oss-r-vendor-for-redmi-note-9-merlin-merlinnfc.4320439/",
         "maintainer": "Boi_Box",
         "maintainer_url": "https://github.com/Box-boi",
         "telegram_username": "Boi_Box",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Elegant"
+        "version": "Eternal"
     },
     {
         "datetime": 1630201453,
