@@ -3,7 +3,7 @@ import json
 import os
 
 head = []
-dropped = ["wayne", "ysl", "kebab"]
+dropped = ["wayne", "ysl"]
 
 os.system("rm -f builds/website_api.json brokenjson.txt")
 
@@ -13,9 +13,8 @@ for x in glob.glob("builds/*.json"):
             data = json.load(file)
             for item in data:
                 item['url'] = "https://www.pling.com/p/1544683"
-                for d in dropped:
-                    if d in item["filename"]:
-                        item["version"] = item["version"] + ", Dropped"
+                if item["filename"].split('_')[2].split('-')[0] in dropped:
+                    item["version"] = item["version"] + ", Dropped"
             head += data
         except Exception as e:
             print(f'{x}: {e}\n')
