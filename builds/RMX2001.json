@@ -3,14 +3,14 @@
         "datetime": 1629522574,
         "error": false,
         "filehash": "2a8eb3a014cf1df852c2b651fde4bcd7",
-        "filename": "HyconOS_4.5_RMX2001-11.0-20210821-0511-OFFICIAL.zip",
+        "filename": "HyconOS_4.5.1_RMX2001-11.0-20210911-0235-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-11-hycon-os-v4-0-ephemeral-rmx2001-realme-6-series-g90t-series-official.4298029/",
         "id": "2b67429e4937a084e0f942e955e1a5e311cb4b300b99ffad332621284e9c05cc",
         "maintainer": "SriBalaji",
         "maintainer_url": "https://github.com/iamthecloverly",
         "size": 1466449942,
         "telegram_username": "https://t.me/TheCloverly",
-        "url": "https://github.com/HyconOS-Releases/RMX2001/releases/download/v3.5/HyconOS_3.5_RMX2001-11.0-20210628-0434-OFFICIAL.zip",
-        "version": "Elegant"
+        "url": "https://github.com/HyconOS-Releases/RMX2001/releases/download/4.5.1/HyconOS_4.5.1_RMX2001-11.0-20210911-0235-OFFICIAL.zip",
+        "version": "Eternal"
     }
 ]
