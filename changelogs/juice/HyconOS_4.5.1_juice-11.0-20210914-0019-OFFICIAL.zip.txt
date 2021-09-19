@@ -1,0 +1,6 @@
+Device changes:
+- Merged September SP
+- Safetynet passed by default 
+- Switch to Stormbreaker Kernel v3
+- Adjust Landscape Keyboard Size 
+- Improved Stabilty & Performance

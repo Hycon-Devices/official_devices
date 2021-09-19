@@ -167,18 +167,18 @@
         "version": "Sunrise"
     },
     {
-        "datetime": 1630840761,
+        "datetime": 1631578793,
         "error": false,
-        "filehash": "95dddff3f1ec88a35d68af165d6e5b91",
-        "filename": "HyconOS_4.5_juice-11.0-20210905-1122-OFFICIAL.zip",
+        "filehash": "14eabc56649526a5dda59aabe4b6c132",
+        "filename": "HyconOS_4.5.1_juice-11.0-20210914-0019-OFFICIAL.zip",
         "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-hycon-os-4-0-ephemeral-stable-juice-unified.4309371/",
-        "id": "9f65215c9ff4242eded925569b39a0a0795be7de464fb109bdf245bdda3f7c16",
+        "id": "ac9eac886315d7318058d6565f5c1887660cd4c71c69c98741a9d90815c75508",
         "maintainer": "Don Joaquin",
         "maintainer_url": "https://github.com/Joaquin-000",
-        "size": 1315697346,
+        "size": 1264765356,
         "telegram_username": "https://t.me/mafiasupremacy",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Elegant"
+        "version": "Eternal"
     },
     {
         "datetime": 1625980226,
