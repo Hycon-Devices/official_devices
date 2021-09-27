@@ -83,18 +83,18 @@
         "version": "Eternal"
     },
     {
-        "datetime": 1630159680,
+        "datetime": 1632630656,
         "error": false,
-        "filehash": "380682bd628b6ac234b3833a49e831e3",
-        "filename": "HyconOS_4.5_begonia-11.0-20210828-1410-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v4-5-elegant.4253903/",
-        "id": "e0af51ac5d753bbffa7adf7d62518dcb6b0e055ca22de58e5f1f53e46522b963",
+        "filehash": "975a94b41d91dfe0abb63bf69fe81abc",
+        "filename": "HyconOS_4.5.1_begonia-11.0-20210926-0432-OFFICIAL.zip",
+        "forum_url": "https://forum.xda-developers.com/t/rom-official-begonia-non-cfw-11-hycon-os-v4-5-1-eternal.4253903/",
+        "id": "b3b0ea3f74d6c5425f87215830bbd3633bfb573458e9c2f65710dd89f6f11efb",
         "maintainer": "abhixv",
         "maintainer_url": "https://github.com/abhixv",
-        "size": 1688202492,
+        "size": 1683640761,
         "telegram_username": "https://t.me/abhixv",
         "url": "https://www.pling.com/p/1544683",
-        "version": "Elegant"
+        "version": "Eternal"
     },
     {
         "datetime": 1626091192,
