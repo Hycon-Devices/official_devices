@@ -54,15 +54,15 @@ else
     exit 1
 fi
 
-rm -rf brokenjson.txt
+rm -rf brokenjson.txt tmp
 
+rm -rf tmp; mkdir tmp
 for i in $(find . -type f -iname '*.json')
 do
-    mkdir tmp
-    python -m json.tool < $i > tmp/format.json
+    jq . < $i > tmp/format.json
     mv tmp/format.json $i
-    rm -rf tmp
 done
+rm -rf tmp
 
 GIT_CHECK="$(git status | grep "json")"
 
