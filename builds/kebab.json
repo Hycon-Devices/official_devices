@@ -1,16 +1,16 @@
 [
-    {
-        "datetime": 1625980226,
-        "error": false,
-        "filehash": "4ce91e5258c4351a8ab0ff61d5f10d3e",
-        "filename": "HyconOS_4.0_kebab-11.0-20210711-0510-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433",
-        "id": "9aa84a49440510307688182157b3ce17a7d9258ce91980d87742f1f728c9e0e9",
-        "maintainer": "TheTablaster",
-        "maintainer_url": "https://github.com/Blaster4385",
-        "size": 1655265437,
-        "telegram_username": "V3NK4135H",
-        "url": "https://github.com/HyconOS-Releases/Kebab/releases/download/v3.5/HyconOS_3.5_kebab-11.0-20210618-1238-OFFICIAL.zip",
-        "version": "Ephemeral"
-    }
+  {
+    "datetime": 1625980226,
+    "error": false,
+    "filehash": "4ce91e5258c4351a8ab0ff61d5f10d3e",
+    "filename": "HyconOS_4.0_kebab-11.0-20210711-0510-OFFICIAL.zip",
+    "forum_url": "https://forum.xda-developers.com/t/hycon-os-v3-0-aurora-official-oneplus-8t-kebab.4279307/#post-85150433",
+    "id": "9aa84a49440510307688182157b3ce17a7d9258ce91980d87742f1f728c9e0e9",
+    "maintainer": "TheTablaster",
+    "maintainer_url": "https://github.com/Blaster4385",
+    "size": 1655265437,
+    "telegram_username": "V3NK4135H",
+    "url": "https://github.com/HyconOS-Releases/Kebab/releases/download/v3.5/HyconOS_3.5_kebab-11.0-20210618-1238-OFFICIAL.zip",
+    "version": "Ephemeral"
+  }
 ]

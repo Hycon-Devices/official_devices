@@ -1,16 +1,16 @@
 [
-    {
-        "datetime": 1630173523,
-        "error": false,
-        "filehash": "7673f764e8a50bf9c00fdf33ebc2ca82",
-        "filename": "HyconOS_4.5_PL2-11.0-20210828-1800-OFFICIAL.zip",
-        "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
-        "id": "253aba4934c72e9817c8cb10d846163dee99c65e5f7394fe2a6935ddd9a12e75",
-        "maintainer": "ANKIT KENE",
-        "maintainer_url": "https://github.com/keneankit01",
-        "size": 1232908081,
-        "telegram_username": "ankitkene",
-        "url": "https://github.com/HyconOS-Releases/PL2/releases/",
-        "version": "Ephemeral"
-    }
+  {
+    "datetime": 1630173523,
+    "error": false,
+    "filehash": "7673f764e8a50bf9c00fdf33ebc2ca82",
+    "filename": "HyconOS_4.5_PL2-11.0-20210828-1800-OFFICIAL.zip",
+    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-0-plate2.4237005/",
+    "id": "253aba4934c72e9817c8cb10d846163dee99c65e5f7394fe2a6935ddd9a12e75",
+    "maintainer": "ANKIT KENE",
+    "maintainer_url": "https://github.com/keneankit01",
+    "size": 1232908081,
+    "telegram_username": "ankitkene",
+    "url": "https://github.com/HyconOS-Releases/PL2/releases/",
+    "version": "Ephemeral"
+  }
 ]

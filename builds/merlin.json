@@ -1,16 +1,16 @@
 [
-    {
-        "datetime": 1631263087,
-        "error": false,
-        "filehash": "4ad7c08ce8d848fb3f6bf19f6f6c2262",
-        "filename": "HyconOS_4.5.1_merlin-11.0-20210910-0841-OFFICIAL.zip",
-        "id": "3c06ecf719759e2002eabf302e4ed15fcb7f3d647042990a4d14458aa05cd624",
-        "size": 1433182494,
-        "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-oss-r-vendor-for-redmi-note-9-merlin-merlinnfc.4320439/",
-        "maintainer": "Boi_Box",
-        "maintainer_url": "https://github.com/Box-boi",
-        "telegram_username": "Boi_Box",
-        "url": "https://github.com/HyconOS-Releases/merlin/releases/download/v4.5.1/HyconOS_4.5.1_merlin-11.0-20210910-0841-OFFICIAL.zip",
-        "version": "Eternal"
-    }
+  {
+    "datetime": 1631263087,
+    "error": false,
+    "filehash": "4ad7c08ce8d848fb3f6bf19f6f6c2262",
+    "filename": "HyconOS_4.5.1_merlin-11.0-20210910-0841-OFFICIAL.zip",
+    "id": "3c06ecf719759e2002eabf302e4ed15fcb7f3d647042990a4d14458aa05cd624",
+    "size": 1433182494,
+    "forum_url": "https://forum.xda-developers.com/t/rom-hyconos-oss-r-vendor-for-redmi-note-9-merlin-merlinnfc.4320439/",
+    "maintainer": "Boi_Box",
+    "maintainer_url": "https://github.com/Box-boi",
+    "telegram_username": "Boi_Box",
+    "url": "https://github.com/HyconOS-Releases/merlin/releases/download/v4.5.1/HyconOS_4.5.1_merlin-11.0-20210910-0841-OFFICIAL.zip",
+    "version": "Eternal"
+  }
 ]
