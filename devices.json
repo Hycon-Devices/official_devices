@@ -280,6 +280,20 @@
     ]
   },
   {
+    "brand": "Xiaomi",
+    "codename": "olivewood",
+    "name": "Redmi 8A/8A Dual",
+    "supported_versions": [
+      {
+        "maintainer_name": "Asim Ranjha",
+        "maintainer_url": "https://github.com/a7imranjha",
+        "version_code": "eleven",
+        "version_name": "Eternal",
+        "xda_thread": "https://forum.xda-developers.com/t/hycon-os-v4-5-1-eternal-official-redmi-8a-8a-dual-olivewood.4342409/"
+      }
+    ]
+  },
+  {
     "brand": "OnePlus",
     "codename": "kebab",
     "name": "OnePlus 8T",

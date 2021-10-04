@@ -1,0 +1,11 @@
+**Device changes:
+* Initial Official Build
+* Added MI sound enhancer
+* Added Miui Camera
+* User Build
+----------------------------------
+Source Changes:
+V4.5.1 | ETERNAL (15-09-2021)
+• Merged SEPTEMBER AOSP Security Patch.
+• Update PixelPropsUtil to SEPTEMBER FP.
+• FIXED SAFTYNET ISSUES.
