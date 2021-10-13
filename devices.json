@@ -404,5 +404,47 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-hyconos-op7-guacamoleb-official.4323255/"
       }
     ]
+  },
+  {
+    "brand": "OnePlus",
+    "codename": "enchilada",
+    "name": "OnePlus 6",
+    "supported_versions": [
+      {
+        "maintainer_name": "ZahidM Choudhary",
+        "maintainer_url": "https://github.com/zahidmgsk",
+        "version_code": "eleven",
+        "version_name": "Eternal",
+        "xda_thread": "https://forum.xda-developers.com/f/oneplus-6-6t-cross-device-development.9653/"
+      }
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "codename": "fajita",
+    "name": "OnePlus 6T",
+    "supported_versions": [
+      {
+        "maintainer_name": "ZahidM Choudhary",
+        "maintainer_url": "https://github.com/zahidmgsk",
+        "version_code": "eleven",
+        "version_name": "Eternal",
+        "xda_thread": "https://forum.xda-developers.com/f/oneplus-6-6t-cross-device-development.9653/"
+      }
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "codename": "evert",
+    "name": "Moto G6 Plus",
+    "supported_versions": [
+      {
+        "maintainer_name": "ZahidM Choudhary",
+        "maintainer_url": "https://github.com/zahidmgsk",
+        "version_code": "eleven",
+        "version_name": "Eternal",
+        "xda_thread": "https://forum.xda-developers.com/f/moto-g6-plus-roms-kernels-recoveries-other-de.8330//"
+      }
+    ]
   }
 ]
