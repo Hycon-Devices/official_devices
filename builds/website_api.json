@@ -404,4 +404,44 @@
     "url": "https://www.pling.com/p/1544683",
     "version": "aurora, Dropped"
   }
+  {
+   "datetime": 1633892660,
+   "error": false,
+   "filehash": "989bf1952e9c93d063dbb8348ea205b3",
+   "filename": "HyconOS_4.5.1_enchilada-11.0-20211010-1904-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/f/oneplus-6-6t-cross-device-development.9653//",
+   "id": "afe4471c279becf6485b8a0e245805d0944d39f27a4926ba4710655bc5cf41cf",
+   "maintainer": "ZahidM Choudhry",
+   "maintainer_url": "https://github.com/zahidmgsk",
+   "size": 1232245648,
+   "telegram_username": "zahidmgsk",
+   "url": "https://www.pling.com/p/1544683",
+   "version": "Eternal"
+  },
+  {
+   "datetime": 1633955377,
+   "filehash": "c2d9aa0984afafdf36be15815f8499bf",
+   "filename": "HyconOS_4.5.1_fajita-11.0-20211011-1229-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/f/oneplus-6-6t-cross-device-development.9653//",
+   "id": "90603a772e54211a838056965ef2dd5a1afbbfdef918227270fc754a2883addc",
+   "maintainer": "ZahidM Choudhry",
+   "maintainer_url": "https://github.com/zahidmgsk",
+   "size": 1232192634,
+   "telegram_username": "zahidmgsk",
+   "url": "https://www.pling.com/p/1544683",
+   "version": "Eternal"
+  },
+  {
+   "datetime": 1633863118,
+   "filehash": "6550e3ec976e44b2ef498e373cdb659d",
+   "filename": "HyconOS_4.5.1_evert-11.0-20211010-1052-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/f/moto-g6-plus-roms-kernels-recoveries-other-de.8330/",
+   "id": "b91d86941b617b807adf44aacb955dbe472a73fbf4138bfde3a01666ffecc9c2",
+   "maintainer": "ZahidM Choudhry",
+   "maintainer_url": "https://github.com/zahidmgsk",
+   "size": 1220211839,
+   "telegram_username": "zahidmgsk",
+   "url": "https://www.pling.com/p/1544683",
+   "version": "Eternal"
+  }
 ]
