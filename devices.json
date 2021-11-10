@@ -355,11 +355,11 @@
     "name": "Redmi Note 6 Pro",
     "supported_versions": [
       {
-        "maintainer_name": "Rabin",
-        "maintainer_url": "https://github.com/rabin-tech",
+        "maintainer_name": "MOCHA",
+        "maintainer_url": "https://github.com/AlokRonaldo",
         "version_code": "eleven",
         "version_name": "Eternal",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-tulip-hyconos-16-08-2021.4320241/"
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-hyconos-v4-5-1-tulip.4359323/"
       }
     ]
   },

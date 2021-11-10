@@ -1,0 +1,9 @@
+Device Changelog:
+# v4.5.1 Elegant
+-Add notch bar killer
+-Better ram manegement
+-Kernel upsteramed to 4.4.289
+-Safety Net passes by default
+-Add pros for battery improvement
+-Gapps build no need to flash gapps
+-Wlan: Smarter decisions on whether to use a 2Ghz or 5Ghz AP
